@@ -1,0 +1,927 @@
+{
+  "styles": {
+    "-1": {
+      "bc": "#000000",
+      "bwh": null,
+      "fa": 1.0,
+      "hs": false,
+      "fch": null,
+      "bch": null,
+      "bw": 0.0,
+      "fah": null,
+      "name": "",
+      "fc": "transparent"
+    },
+    "39861": {
+      "bc": "#000000",
+      "bwh": null,
+      "fa": 0.0,
+      "name": "Transparent",
+      "fch": null,
+      "bch": null,
+      "bw": 0.0,
+      "fah": null,
+      "hs": false,
+      "fc": "#000000"
+    }
+  },
+  "url": "/2026/07/semanal-27-8i11/",
+  "countryCode": 45,
+  "paperId": 2992056,
+  "licenseId": 17008,
+  "name": "Semanal 27 8I11",
+  "pageTitle": "Folhetos 2026 | Continente",
+  "pageTitleUndecorated": "Folhetos 2026 | Continente",
+  "frontendDomain": "viewer.ipaper.io",
+  "paperCompleteUrl": "https://folhetos.continente.pt/2026/07/semanal-27-8i11/",
+  "account": {
+    "hash": "2fbc450f-0fbc-450b-9a35-444356442a01",
+    "fileExtensionsToOptimize": [
+      "jpeg",
+      "jpg",
+      "gif",
+      "webp",
+      "png"
+    ]
+  },
+  "image": {
+    "normalWidth": 703,
+    "normalHeight": 995,
+    "thumbWidth": 100,
+    "zoomWidth": 1143,
+    "zoomHeight": 1617
+  },
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52
+  ],
+  "spreads": [
+    [
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      22,
+      23
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      26,
+      27
+    ],
+    [
+      28,
+      29
+    ],
+    [
+      30,
+      31
+    ],
+    [
+      32,
+      33
+    ],
+    [
+      34,
+      35
+    ],
+    [
+      36,
+      37
+    ],
+    [
+      38,
+      39
+    ],
+    [
+      40,
+      41
+    ],
+    [
+      42,
+      43
+    ],
+    [
+      44,
+      45
+    ],
+    [
+      46,
+      47
+    ],
+    [
+      48,
+      49
+    ],
+    [
+      50,
+      51
+    ],
+    [
+      52
+    ]
+  ],
+  "enrichments": {
+    "chunkUrls": {
+      "1-9": "https://b2-cdn.ipaper.io/iPaper/Papers/273898a6-7c8b-4af8-b3e8-77225b2b0c3d/Enrichments/v1/1782744343/Lx9UlW4HaoW3539sy6wWHVj6ipvcLPmgSPvOXYa2n9L-B-HFF8u9EpugbGpnDrKp/Page1-9.json?token=pOx57JvUdMtwZmcvuEtuGgApTRZOzGyOC7Tr8VfZ-5Q&token_path=%2fiPaper%2fPapers%2f273898a6-7c8b-4af8-b3e8-77225b2b0c3d%2fEnrichments%2f&expires=1782925233",
+      "10-17": "https://b2-cdn.ipaper.io/iPaper/Papers/273898a6-7c8b-4af8-b3e8-77225b2b0c3d/Enrichments/v1/1782744343/Lx9UlW4HaoW3539sy6wWHVj6ipvcLPmgSPvOXYa2n9L-B-HFF8u9EpugbGpnDrKp/Page10-17.json?token=pOx57JvUdMtwZmcvuEtuGgApTRZOzGyOC7Tr8VfZ-5Q&token_path=%2fiPaper%2fPapers%2f273898a6-7c8b-4af8-b3e8-77225b2b0c3d%2fEnrichments%2f&expires=1782925233",
+      "18-23": "https://b2-cdn.ipaper.io/iPaper/Papers/273898a6-7c8b-4af8-b3e8-77225b2b0c3d/Enrichments/v1/1782744343/Lx9UlW4HaoW3539sy6wWHVj6ipvcLPmgSPvOXYa2n9L-B-HFF8u9EpugbGpnDrKp/Page18-23.json?token=pOx57JvUdMtwZmcvuEtuGgApTRZOzGyOC7Tr8VfZ-5Q&token_path=%2fiPaper%2fPapers%2f273898a6-7c8b-4af8-b3e8-77225b2b0c3d%2fEnrichments%2f&expires=1782925233",
+      "24-29": "https://b2-cdn.ipaper.io/iPaper/Papers/273898a6-7c8b-4af8-b3e8-77225b2b0c3d/Enrichments/v1/1782744343/Lx9UlW4HaoW3539sy6wWHVj6ipvcLPmgSPvOXYa2n9L-B-HFF8u9EpugbGpnDrKp/Page24-29.json?token=pOx57JvUdMtwZmcvuEtuGgApTRZOzGyOC7Tr8VfZ-5Q&token_path=%2fiPaper%2fPapers%2f273898a6-7c8b-4af8-b3e8-77225b2b0c3d%2fEnrichments%2f&expires=1782925233",
+      "30-35": "https://b2-cdn.ipaper.io/iPaper/Papers/273898a6-7c8b-4af8-b3e8-77225b2b0c3d/Enrichments/v1/1782744343/Lx9UlW4HaoW3539sy6wWHVj6ipvcLPmgSPvOXYa2n9L-B-HFF8u9EpugbGpnDrKp/Page30-35.json?token=pOx57JvUdMtwZmcvuEtuGgApTRZOzGyOC7Tr8VfZ-5Q&token_path=%2fiPaper%2fPapers%2f273898a6-7c8b-4af8-b3e8-77225b2b0c3d%2fEnrichments%2f&expires=1782925233",
+      "36-41": "https://b2-cdn.ipaper.io/iPaper/Papers/273898a6-7c8b-4af8-b3e8-77225b2b0c3d/Enrichments/v1/1782744343/Lx9UlW4HaoW3539sy6wWHVj6ipvcLPmgSPvOXYa2n9L-B-HFF8u9EpugbGpnDrKp/Page36-41.json?token=pOx57JvUdMtwZmcvuEtuGgApTRZOzGyOC7Tr8VfZ-5Q&token_path=%2fiPaper%2fPapers%2f273898a6-7c8b-4af8-b3e8-77225b2b0c3d%2fEnrichments%2f&expires=1782925233",
+      "42-47": "https://b2-cdn.ipaper.io/iPaper/Papers/273898a6-7c8b-4af8-b3e8-77225b2b0c3d/Enrichments/v1/1782744343/Lx9UlW4HaoW3539sy6wWHVj6ipvcLPmgSPvOXYa2n9L-B-HFF8u9EpugbGpnDrKp/Page42-47.json?token=pOx57JvUdMtwZmcvuEtuGgApTRZOzGyOC7Tr8VfZ-5Q&token_path=%2fiPaper%2fPapers%2f273898a6-7c8b-4af8-b3e8-77225b2b0c3d%2fEnrichments%2f&expires=1782925233",
+      "48-52": "https://b2-cdn.ipaper.io/iPaper/Papers/273898a6-7c8b-4af8-b3e8-77225b2b0c3d/Enrichments/v1/1782744343/Lx9UlW4HaoW3539sy6wWHVj6ipvcLPmgSPvOXYa2n9L-B-HFF8u9EpugbGpnDrKp/Page48-52.json?token=pOx57JvUdMtwZmcvuEtuGgApTRZOzGyOC7Tr8VfZ-5Q&token_path=%2fiPaper%2fPapers%2f273898a6-7c8b-4af8-b3e8-77225b2b0c3d%2fEnrichments%2f&expires=1782925233"
+    },
+    "pageChunksIndexes": {
+      "1": "1-9",
+      "2": "1-9",
+      "3": "1-9",
+      "4": "1-9",
+      "5": "1-9",
+      "6": "1-9",
+      "7": "1-9",
+      "8": "1-9",
+      "9": "1-9",
+      "10": "10-17",
+      "11": "10-17",
+      "12": "10-17",
+      "13": "10-17",
+      "14": "10-17",
+      "15": "10-17",
+      "16": "10-17",
+      "17": "10-17",
+      "18": "18-23",
+      "19": "18-23",
+      "20": "18-23",
+      "21": "18-23",
+      "22": "18-23",
+      "23": "18-23",
+      "24": "24-29",
+      "25": "24-29",
+      "26": "24-29",
+      "27": "24-29",
+      "28": "24-29",
+      "29": "24-29",
+      "30": "30-35",
+      "31": "30-35",
+      "32": "30-35",
+      "33": "30-35",
+      "34": "30-35",
+      "35": "30-35",
+      "36": "36-41",
+      "37": "36-41",
+      "38": "36-41",
+      "39": "36-41",
+      "40": "36-41",
+      "41": "36-41",
+      "42": "42-47",
+      "43": "42-47",
+      "44": "42-47",
+      "45": "42-47",
+      "46": "42-47",
+      "47": "42-47",
+      "48": "48-52",
+      "49": "48-52",
+      "50": "48-52",
+      "51": "48-52",
+      "52": "48-52"
+    }
+  },
+  "initialSpreads": [
+    [
+      1
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "initialSpreadsIndexes": [
+    0,
+    1
+  ],
+  "infotext": {
+    "alignment": "top left",
+    "hasContent": false,
+    "rawSourceMode": false
+  },
+  "newsticker": {
+    "entries": [
+      {
+        "id": 29164,
+        "tickerID": 8031,
+        "header": "Os preços anunciados e as ações promocionais podem não coincidir com os disponíveis no Continente Online. ",
+        "formID": null,
+        "formName": null,
+        "link": "https://www.continente.pt/folhetos/",
+        "popupFrameMaxWidth": null,
+        "popupFrameMaxHeight": null,
+        "popupFrameBackgroundColor": null,
+        "type": "external"
+      }
+    ]
+  },
+  "pdf": {
+    "isExternal": false
+  },
+  "shop": {
+    "allowCustomItem": false,
+    "clearBasketOnCheckout": false,
+    "defaultCountryCode": 45,
+    "externalBasketUrl": null,
+    "externalJsonShopLinks": false,
+    "hidePrices": false,
+    "hovertext": "[name]",
+    "icon": "svg-icon-shop-basket--1",
+    "isUsingDefaultShopIcon": true,
+    "limitProductsInBasket": 99,
+    "limitProductsInBasketText": "Cart already contains the maximum allowed number of this item.",
+    "minimumBasketValue": null,
+    "minimumBasketValueText": "Add items for [remainingValue] or more before proceeding with checkout.",
+    "continueShoppingText": null,
+    "emptyCartText": null,
+    "toastItemAddedText": null,
+    "toastCartCtaText": null,
+    "checkoutOptions": {
+      "primary": [
+        {
+          "id": "45f5fc50-dc21-47ee-8566-649b90299664",
+          "type": "ShopIntegrationCheckout",
+          "label": "Adicionar ao Carrinho"
+        }
+      ],
+      "secondary": [],
+      "data": {
+        "emailCheckout": [],
+        "shopIntegrationCheckout": [
+          {
+            "id": "45f5fc50-dc21-47ee-8566-649b90299664",
+            "windowTarget": "_self"
+          }
+        ]
+      }
+    }
+  },
+  "share": {
+    "isSharingEnabled": true
+  },
+  "colors": {
+    "preloaderBottomColor": "FFFFFF",
+    "preloaderTopColor": "FFFFFF",
+    "catalogBackground": "#FFFFFF",
+    "catalogBackgroundGradientBottom": "#FFFFFF",
+    "toolbarBackground": "#eb0203",
+    "toolbarIcon": "#ffffff",
+    "toolbarMenuText": "#1D1D1D",
+    "moduleBackground": "#4A4A4A",
+    "moduleText": "#FAFAFA",
+    "moduleEntryBackground": "#F5F5F5",
+    "moduleEntryText": "#1D1D1D",
+    "navigationBackground": "#FFFFFF",
+    "navigationIcon": "#4A4A4A",
+    "callToActionBackground": "#eb0203",
+    "callToActionText": "#FFFFFF"
+  },
+  "config": {
+    "isStartOnSpread": false,
+    "pageNumber": 0,
+    "backgroundImage": "https://files.b2-cdn.ipaper.io/iPaper/Files/Optimize/dd804b1a-6fe2-4d4e-b9cb-59d610d3fb4b.jpg",
+    "isCrossFade": false,
+    "firstNumberedPage": 1,
+    "disableStandardUI": false,
+    "disableNavigationBars": false,
+    "mobileInterfaceState": "",
+    "isBuildAFlipbook": false,
+    "buildAFlipbookId": null,
+    "systemCulture": "en-US",
+    "countryCodes": [
+      {
+        "areaCode": 43,
+        "name": "Austria"
+      },
+      {
+        "areaCode": 54,
+        "name": "Argentina"
+      },
+      {
+        "areaCode": 32,
+        "name": "Belgium"
+      },
+      {
+        "areaCode": 387,
+        "name": "Bosnia and Herzegovina"
+      },
+      {
+        "areaCode": 55,
+        "name": "Brazil"
+      },
+      {
+        "areaCode": 359,
+        "name": "Bulgaria"
+      },
+      {
+        "areaCode": 56,
+        "name": "Chile"
+      },
+      {
+        "areaCode": 86,
+        "name": "China"
+      },
+      {
+        "areaCode": 57,
+        "name": "Colombia"
+      },
+      {
+        "areaCode": 385,
+        "name": "Croatia"
+      },
+      {
+        "areaCode": 420,
+        "name": "Czech Republic"
+      },
+      {
+        "areaCode": 45,
+        "name": "Denmark"
+      },
+      {
+        "areaCode": 372,
+        "name": "Estonia"
+      },
+      {
+        "areaCode": 298,
+        "name": "Faroe Islands"
+      },
+      {
+        "areaCode": 358,
+        "name": "Finland"
+      },
+      {
+        "areaCode": 33,
+        "name": "France"
+      },
+      {
+        "areaCode": 49,
+        "name": "Germany"
+      },
+      {
+        "areaCode": 30,
+        "name": "Greece"
+      },
+      {
+        "areaCode": 36,
+        "name": "Hungary"
+      },
+      {
+        "areaCode": 354,
+        "name": "Iceland"
+      },
+      {
+        "areaCode": 353,
+        "name": "Ireland"
+      },
+      {
+        "areaCode": 39,
+        "name": "Italy"
+      },
+      {
+        "areaCode": 81,
+        "name": "Japan"
+      },
+      {
+        "areaCode": 7,
+        "name": "Kazakhstan"
+      },
+      {
+        "areaCode": 371,
+        "name": "Latvia"
+      },
+      {
+        "areaCode": 370,
+        "name": "Lithuania"
+      },
+      {
+        "areaCode": 389,
+        "name": "Macedonia"
+      },
+      {
+        "areaCode": 60,
+        "name": "Malaysia"
+      },
+      {
+        "areaCode": 356,
+        "name": "Malta"
+      },
+      {
+        "areaCode": 52,
+        "name": "Mexico"
+      },
+      {
+        "areaCode": 47,
+        "name": "Norway"
+      },
+      {
+        "areaCode": 51,
+        "name": "Peru"
+      },
+      {
+        "areaCode": 63,
+        "name": "Philippines"
+      },
+      {
+        "areaCode": 48,
+        "name": "Poland"
+      },
+      {
+        "areaCode": 351,
+        "name": "Portuguese"
+      },
+      {
+        "areaCode": 40,
+        "name": "Romania"
+      },
+      {
+        "areaCode": 7,
+        "name": "Russia"
+      },
+      {
+        "areaCode": 381,
+        "name": "Serbia"
+      },
+      {
+        "areaCode": 421,
+        "name": "Slovakia"
+      },
+      {
+        "areaCode": 386,
+        "name": "Slovenia"
+      },
+      {
+        "areaCode": 34,
+        "name": "Spain"
+      },
+      {
+        "areaCode": 46,
+        "name": "Sweden"
+      },
+      {
+        "areaCode": 41,
+        "name": "Switzerland"
+      },
+      {
+        "areaCode": 66,
+        "name": "Thailand"
+      },
+      {
+        "areaCode": 31,
+        "name": "The Netherlands"
+      },
+      {
+        "areaCode": 90,
+        "name": "Turkey"
+      },
+      {
+        "areaCode": 380,
+        "name": "Ukraine"
+      },
+      {
+        "areaCode": 971,
+        "name": "United Arab Emirates"
+      },
+      {
+        "areaCode": 44,
+        "name": "United Kingdom"
+      },
+      {
+        "areaCode": 1,
+        "name": "United States"
+      },
+      {
+        "areaCode": 84,
+        "name": "Vietnam"
+      }
+    ],
+    "isFirstPageCentered": true,
+    "useUpdatedZoomLogic": false
+  },
+  "forwardParams": {},
+  "openTableOfContents": false,
+  "useAsyncScriptLoading": true,
+  "scripts": [
+    {
+      "integrationName": "GoogleTagManagerJavascriptIntegration",
+      "requiredConsent": "Advertising",
+      "scripts": [
+        {
+          "attributes": [],
+          "source": "\r\n\t\t\t\t\twindow.dataLayer = window.dataLayer || [];\r\n\t\t\t\t\twindow.dataLayer.push({\r\n\t\t\t\t\t\t'gtm.start': new Date().getTime(),\r\n\t\t\t\t\t\tevent: 'gtm.js'\r\n\t\t\t\t\t});\r\n\t\t\t\t"
+        },
+        {
+          "attributes": [
+            {
+              "name": "src",
+              "value": "//www.googletagmanager.com/gtm.js?id=GTM-PDFQWNS"
+            },
+            {
+              "name": "async",
+              "value": "true"
+            }
+          ],
+          "source": null
+        }
+      ]
+    },
+    {
+      "integrationName": "PopupsJavascriptIntegration",
+      "requiredConsent": "Advertising",
+      "scripts": [
+        {
+          "attributes": [],
+          "source": "(function(i,P,a,p,e,r){\r\nvar d=i.document,l=i.location,o=l.origin||(l.protocol+'//'+l.hostname),b=o+l.pathname+l.search;\r\nif(d.getElementById(a=a+'-'+e))return;\r\nr=d.querySelector(P).parentNode.appendChild(d.createElement(P));\r\nr.id=a;r.async=1;r.src=p+(+new Date)+'/'+e+'.js'+'?iper='+encodeURIComponent(b)})\r\n(window,'script','ipaper-embeds','https://embeds.ipaper.io/v2/','MTYtMTcwMDg=');"
+        }
+      ]
+    },
+    {
+      "integrationName": "TrackingPixelJavascriptIntegration",
+      "requiredConsent": "Advertising",
+      "scripts": [
+        {
+          "attributes": [],
+          "source": "\r\n\t\t\t\t\t (function() {\r\n\t\t\t\t\t\t\tvar u = [\"https://www.facebook.com/tr?id=158763331136548&ev=PageView&noscript=1\"];\r\n\t\t\t\t\t\t\tu.forEach(function(v) {\r\n\t\t\t\t\t\t\t\tvar i = new Image();\r\n\t\t\t\t\t\t\t\ti.src = v;\r\n\t\t\t\t\t\t\t});\r\n\t\t\t\t\t})();\r\n\t\t\t\t"
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "isAdobeAnalyticsEnabled": false,
+    "isGoogleAnalyticsEnabled": false,
+    "isGoogleAnalyticsLinkerPluginEnabled": false,
+    "isGoogleTagManagerEnabled": true,
+    "googleAnalyticsPropertyType": 0,
+    "googleAnalyticsID": "",
+    "googleAnalyticsLinkerDomains": null,
+    "googleAnalyticsTrackerNames": [],
+    "googleAnalyticsAllowEventBleeding": false,
+    "googleTagManagerID": "GTM-PDFQWNS"
+  },
+  "pageTexts": [
+    "697881 701520 698332 697916 698276 697911 698278 697842 697969 698085 698079 701809 Promoções e preços válidos 30 junho — 6 julho 2026. PREÇOS SEMPRE BAIXOS ASSIM TODA A GENTE COME MELHOR Apenas 2 49 , € KG PÊSSEGO PARAGUAYO Apenas 11 99 , € KG POSTAS DE SALMÃO FRESCAS 20 % Desconto Direto 4,99 € 3 99 , € KG CARAPAU PEQUENO/ MÉDIO FRESCO Poupe 3 € 19,99 € 16 99 , € KG MAMINHA DE BOVINO AMÉRICA DO SUL EMBALADO 10 % Desconto Direto 4,99 € 4 49 , € KG BIFANAS DE PORCO CONTINENTE Apenas 4 99 , € UNID. UVA BRANCA S/ GRAINHA CONTINENTE EMB.: 1 KG Até 40 % Sobre PVPR NA MARCA MAGNUM Garrafa térmica 350 ML 25 selos + 0,99 € ou 5 selos + 7,99 € 20 % Desconto Direto 9,99 € 7 99 , € KG CAMARÃO GRANDE 20/30 VANNAMEI CONGELADO 4,49 € 3 99 , € KG PATO INTEIRO FRESCO Até 30 % Sobre PVPR NA MARCA SCHWEPPES 25 % Sobre PVPR NOS VINHOS CERTIFICADOS REGIONAL E DOC DO ALENTEJO EXCETO CAVE, ESPUMANTES E EXCLUSIVOS ONLINE Até 50 % Sobre PVPR NA MARCA RAID MARCA DA SEMANA 5D0EC3A5R0R€INCAHDOAS",
+    "ENTRADA LIVRE SÁBADO | 11 DE JULHO MKT MC LIVINHO | MIZZY MILES KARETUS ROSINHA | SAMBINHA DO ZÉ SONS DO MINHO | BIA ALEGRIA DOMINGO | 12 JULHO TONY CARREIRA | ANSELMO RALPH SARA CORREIA ZÉ AMARO | SANTAMARIA ÁLVARO KASTRO | SÓNIA E AS PROFISSÕES CHEFS CHEF CHAKALL | CHEF DIOGO ROCHA CHEF HÉLIO LOUREIRO | CHEF JUSTA NOBRE CHEF MANUEL ALMEIDA | CHEF MICHELE MARQUES PARQUE DA CIDADE DO PORTO | 10h30 DÁ PALCO A TODOS OS GOSTOS festivalcomida.continente.pt 2 loja, site e app",
+    "COMER BACALHAU PARA PORTUGAL GANHAR Apenas Pronto a usar em pataniscas, brás ou recheios. Apenas Cortes ideais para apurar em guisados e arroz. 4 99 , € UNID. CALDEIRADA DE BACALHAU MSC CONTINENTE DEMOLHADO CONGELADO EMB.: 700 G 7,13€/KG Apenas O corte mais nobre, alto e suculento. PEIXARIA Apenas O corte clássico e alto para assar no forno. 14 49 € , UNID. POSTAS TRADICIONAIS DE BACALHAU MSC CONTINENTE DEMOLHADO CONGELADO EMB.: 800 G 18,11€/KG Apenas O tamanho perfeito para o dia a dia. 8 99 , € UNID. BACALHAU DESFIADO MSC CONTINENTE DEMOLHADO CONGELADO EMB.: 500 G 17,98€/KG 18 99 € , UNID. LOMBOS DE BACALHAU MSC CONTINENTE DEMOLHADO CONGELADO EMB.: 800 G 23,74€/KG Apenas 7 29 , € KG CARAS DE BACALHAU DEMOLHADAS CONGELADAS BALCÃO DE ATENDIMENTO 15 Mais de % Desconto Direto 7,79 € 49 € 6 UNID. , PALOCO DESFIADO PACK POUPANÇA CONTINENTE DEMOLHADO CONGELADO EMB.: 900 G 7,21€/KG Até 20 % Sobre PVPR NUMA SELEÇÃO DE BACALHAU ULTRACONGELADO DA MARCA PESCANOVA 10 Mais de % Desconto Direto 12,49 € 10 99 , € KG RABOS DE BACALHAU CONGELADO EMB.: 1 KG 13 99 € , UNID. POSTAS MÉDIAS DE BACALHAU MSC CONTINENTE POUPANÇA DEMOLHADO CONGELADO EMB.: 1.2 KG 11,66€/KG 10 Mais de % Desconto Direto 11,69 € 9 99 , € UNID. OVAS DE PEIXE CONGELADAS EMB.: 400 G 24,98€/KG Até 35 % Sobre PVPR NO BACALHAU ULTRACONGELADO DA MARCA RIBERALVES Apenas 17 99 , € KG BACALHAU CRESCIDO DE 1ª DA NORUEGA CONTINENTE SELEÇÃO SALGADO SECO INTEIRO Apenas 19 99 € , UNID. LOMBOS BACALHAU CONTINENTE SALGADO SECO EMB.: 600 G 33,32€/KG 3 Apenas 7 99 , € UNID. BACALHAU DESFIADO CONTINENTE SALGADO SECO EMB.: 400 G 19,98€/KG Apenas 17 99 , € KG BACALHAU GRAÚDO DE 1ª DA NORUEGA CONTINENTE SALGADO SECO INTEIRO Apenas 3 49 , € UNID. PALOCO DO PACÍFICO DESFIADO CONTINENTE SALGADO SECO EMB.: 400 G 8,73€/KG Apenas 5 99 , € UNID. FILETES DE PALOCO DO PACÍFICO CONTINENTE SECO EMB.: 400 G 14,98€/KG loja, site e app 701822 701825 701823 701824 701827 701830 698038 698044 698129 698035 698049 697672 697671 697676 697677 697678 697687",
+    "DOURADA NACIONAL O SABOR VEM DO MAR. A SUSTENTABILIDADE, DO CONTINENTE. AQUACULTURA EM MAR ABERTO DIRETAMENTE DO MAR PARA A NOSSA PEIXARIA FRESCURA DO DIA Apenas 9 99 , € KG DOURADA NACIONAL 200 600G FRESCA 25 % Desconto Direto 9,99 € 7 49 , € KG LINGUADO DA GUINÉ FRESCO Apenas 8 99 , € KG SALMÃO INTEIRO PEQUENO 1 3KG FRESCO Apenas 4 49 , € UNID. BIFE DE ATUM CONTINENTE FRESCO EMB.: 200 G 22,45€/KG Apenas 7 29 , € UNID. FILETE SALMÃO C/ ALHO, LIMÃO E ERVAS MOWI EMB.: 300 G 24,30€/KG 4 25 % Desconto Direto 7,99 € 5 99 , € KG POTA FRESCA Apenas 7 99 , € UNID. FILETE DE ROBALO CONTINENTE FRESCO EMB.: 220 G 36,32€/KG 25 % Desconto Direto 3,99 € 2 99 , € KG VERDINHO FRESCO Apenas 2 99 , € UNID. PORÇÃO DE SALMÃO FRESCO EMB.: 150 G 19,93€/KG Experimente a frescura e qualidade do nosso mar à sua mesa, com toda a praticidade da nossa gama pronta a cozinhar. ENCOMENDE NA PEIXARIA DA SUA LOJA, PEIXE E MARISCO FRESCO: Indique a espécie, quantidade e como quer que seja preparado; Combine a data de recolha com um mínimo de 72h de antecedência. A frescura fica por nossa conta. *Apenas aplicável em lojas com atendimento de peixe Apenas 15 99 , € KG ESPETADA DE SALMÃO E ATUM CONTINENTE FÁCIL & BOM FRESCO UNID APROX 230G FICA A 4,14 € loja, site e app 700507 697912 697917 700505 697685 700495 701521 697679 697684 697683",
+    "698040 698050 698121 698122 698128 698127 698120 700597 698036 698131 698037 698130 698132 698047 698125 698039 698045 698046 698119 698033 698034 698126 DISPONÍVEL NO BALCÃO DE ATENDIMENTO Mais de 20 % Desconto Direto 8,99 € 6 99 , € KG PESCADA GRANDE DO CABO CONGELADA BALCÃO DE ATENDIMENTO Naturalmente magra, rica em ómega-3 e rápida de preparar Mais de 30 % Desconto Direto 8,99 € 5 99 , € KG RED FISH GRANDE CONGELADO BALCÃO DE ATENDIMENTO Mantém-se inteiro e suculento na grelha ou no forno Ideal para caldeiradas, arroz de peixe e massadas 15 % Desconto Direto 9,99 € 8 49 , € KG MARUCA MÉDIA CONGELADA BALCÃO DE ATENDIMENTO Carne branca, extremamente tenra e sofisticada Mais de 15 % Desconto Direto 11,99 € 9 99 , € UNID. LINGUADO DA GUINÉ SELVAGEM CONGELADO BALCÃO DE ATENDIMENTO 20 % Desconto Direto 14,99 € 11 99 , € KG POLVO 800G A 1,5KG CONTINENTE CONGELADO Mais 20 de % Desconto Direto NOS TENTÁCULOS DE POTA CONGELADOS DA MARCA CONTINENTE DISPONÍVEL NO MÓVEL DOS CONGELADOS 10,99 € 9 99 , € UNID. LULAS LIMPAS CONTINENTE CONGELADAS EMB.: 1 KG Ideal para saltear O petisco perfeito para uma salada Mais de 30 % Desconto Direto 8,99 € 5 99 , € UNID. CHOCO LIMPO CONTINENTE CONGELADO EMB.: 600 G 9,98€/KG 25 % Desconto Direto 7,99 € 5 99 , € UNID. SARDINHA INTEIRA NACIONAL CONTINENTE CONGELADA EMB.: 1 KG O sabor do verão e a rainha da grelha 10 % Desconto Direto 9,49 € 8 49 , € UNID. TENTÁCULOS DE POTA COZIDOS CONTINENTE CONGELADOS EMB.: 400 G 21,23€/KG Ideal para Saladas Ideal para grelhar 25 % Desconto Direto 8,99 € 6 74 , € UNID. FILETE DE TAMBORIL CONTINENTE CONGELADO EMB.: 250 G 26,96€/KG 10 % Desconto Direto 6,69 € 5 99 , € UNID. BIFES DE ATUM CONTINENTE CONGELADOS EMB.: 400 G 14,98€/KG Mais de 10 % Desconto Direto 8,99 € 7 99 , € UNID. FILETE DE PEIXE GALO CONTINENTE CONGELADO EMB.: 250 G 31,96€/KG Mais de 10 % Desconto Direto 8,99 € 7 99 , € UNID. POSTAS DE RAIA CONGELADAS EMB.: 700 G 11,41€/KG Mais de 15 % Desconto Direto 5,99 € 4 99 , € UNID. FILETES DE PESCADA DO CABO MSC CONTINENTE CONGELADOS EMB.: 400 G 12,48€/KG 10 % Desconto Direto 8,99 € 8 09 , € UNID. POSTAS PESCADA DO CHILE CONGELADA EMB.: 600 G 13,48€/KG Mais de 15 % Desconto Direto 9,79 € 7 89 , € UNID. LOMBOS DE PERCA CONTINENTE CONGELADOS EMB.: 400 G 19,73€/KG 25 % Desconto Direto 7,99 € 5 99 , € UNID. FILETE VERDINHO CONGELADO EMB.: 800 G 7,49€/KG 25 % Sobre PVPR NOS MEDALHÕES DE PESCADA DO CABO ULTRACONGELADOS DA MARCA IGLO 30 % Sobre PVPR NAS TRANCHES DE SALMÃO ULTRACONGELADO DA MARCA IGLO Mais 20 de % Sobre PVPR NUMA SELEÇÃO DE PEIXE E CEFALÓPODES ULTRACONGELADOS DA MARCA PESCANOVA Mais 20 de % Sobre PVPR NOS FILETES DE PESCADA ULTRACONGELADOS DA MARCA PESCANOVA 5 loja, site e app",
+    "697920 697942 697944 697915 697914 700590 701821 697918 697921 701826 697938 697941 698048 701829 701828 697929 700741 DISPONÍVEL NO BALCÃO DE ATENDIMENTO 30 % Desconto Direto 9,99 € 6 99 , € KG CAMARÃO MÉDIO 60/80 VANNAMEI CONGELADO 35 Mais de % Desconto Direto 15,99 € 9 99 , € KG CAMARÃO BLACK TIGER 20/30 CONGELADO 15 Mais de % Desconto Direto 5,99 € 4 99 , € UNID. PREPARADO P/ MARISCADA S/ GLÚTEN CONTINENTE CONGELADO EMB.: 700 G 7,13€/KG Apenas 2 49 , € UNID. MIOLO DE MEXILHÃO CONTINENTE CONGELADO EMB.: 250 G 9,96€/KG 25 % Sobre PVPR PVPR 12,99 € 9 69 , € UNID. CAMARÃO VANNAMEI 40/48 PESCANOVA ULTRACONGELADO EMB.: 800 G 12,11€/KG Apenas 24 99 , € KG AMÊIJOA JAPONESA FRESCA 6 20 Mais de % Desconto Direto 4,49 € 3 49 , € KG AMÊIJOA VIETNAMITA CASTANHA CONGELADA 20 Mais de % Desconto Direto 1,29 € 0 99 , € UNID. DELÍCIAS DO MAR S/ GLÚTEN CONTINENTE ULTRACONGELADAS EMB.: 250 G 3,96€/KG 20 % Desconto Direto 4,99 € 3 99 , € UNID. MIOLO DE CAMARÃO 60/80 COZIDO CONTINENTE CONGELADO EMB.: 250 G 15,96€/KG 25 % Sobre PVPR PVPR 21,35 € 15 99 € , UNID. CAMARÃO DE MOÇAMBIQUE MÉDIO 48/64 PESCANOVA ULTRACONGELADO EMB.: 800 G 19,99€/KG Apenas 11 99 , € KG LINGUEIRÃO FRESCO 15 % Desconto Direto 19,99 € 99 € 16 UNID. , CAMARÃO 60/80 MADAGÁSCAR ASC CONTINENTE SELEÇÃO ULTRACONGELADO EMB.: 800 G 21,24€/KG 15 % Desconto Direto 3,79 € 19 € 3 UNID. , MIOLO DE CAMARÃO SELVAGEM CONTINENTE ULTRACONGELADO 80/100 EMB.: 250 G 12,76€/KG Apenas 3 99 , € UNID. MIOLO CAMARÃO C/ MOLHO BULHÃO PATO BOREAL EMB.: 150 G 26,60€/KG 20 Mais de % Sobre PVPR PVPR 2,28 € 1 79 , € UNID. LOMBINHOS DO MAR PESCANOVA ULTRACONGELADOS EMB.: 250 G 7,16€/KG 35 % Desconto Direto 19,99 € 12 99 , € KG CAMARÃO 25/35 COZIDO 20 % Desconto Direto 8,29 € 6 59 , € UNID. CAMARÃO COZIDO 30/50 MUNDIAL CONTINENTE EMB.: 600 G +100G 10,98€/KG OFERTA INCLUÍDA NA EMBALAGEM loja, site e app",
+    "697841 697838 698565 697874 697840 697873 697880 701702 695735 695736 701819 695739 695740 695741 Apenas 0 99 , € UNID. NECTARINA CONTINENTE EMB.: 500 G 1,98€/KG Apenas 0 99 , € KG LARANJA CITRINOS DO ALGARVE IGP EMB.: 2 KG 10 % Desconto Direto 1,99 € 1 79 , € KG MAÇÃ FUJI CARIOCA EMB.: 1 KG 15 % Desconto Direto 1,99 € 1 69 , € KG CEBOLA NOVA 15 % Desconto Direto 1,99 € 1 69 , € UNID. PIMENTO PADRÃO CONTINENTE EMB.: 250 G 6,76€/KG 7 JÁ É TEMPO MELANCIA COM POUCAS SEMENTES DOCE, CROCANTE E SUMARENTA 2 KG FICA A 1.98 € 10 % Desconto Direto 2,79 € 2 49 , € KG LIMÃO Apenas 5 89 , € UNID. MIRTILO EMB.: 500 G 11,78€/KG 10 % Desconto Direto 1,89 € 1 69 , € KG PERA PACKAM’S 10 Mais de % Desconto Direto 2,99 € 2 55 , € KG TOMATE CORAÇÃO DE BOI 10 Mais de % Desconto Direto 2,49 € 2 15 , € KG CEBOLA ROXA Apenas 1 39 , € KG TOMATE CHUCHA 15 Mais de % Desconto Direto 1,39 € 1 15 , € KG BATATA VERMELHA Apenas 0 99 , € KG MELANCIA POUCAS SEMENTES INTEIRA Apenas 2 49 , € KG MANGA loja, site e app",
+    "697998 697997 698454 698452 698453 698004 698005 698456 701703 701704 697870 697837 697871 698000 697872 698455 FRUTAS E LEGUMES 15 % Desconto Direto 1,99 € 1 69 , € UNID. BATATA DOCE CONTINENTE PALITOS AIR FYER EMB.: 500 G 3,38€/KG 10 % Desconto Direto NOS COGUMELOS MARRON DA MARCA CONTINENTE 10 % Sobre PVPR PVPR 0,99 € 0 89 , € UNID. COENTROS NATURA VITACRESS EMB.: 30 G 29,67€/KG 10 % Sobre PVPR PVPR 1,09 € 0 98 , € UNID. SALSA NATURA VITACRESS EMB.: 30 G 32,67€/KG 20 % Sobre PVPR PVPR 2,19 € 1 75 , € UNID. ESPINAFRE FLORETTE EMB.: 175 G 10€/KG 10 % Sobre PVPR PVPR 1,87 € 1 68 , € UNID. SALADA AROMÁTICA VITACRESS EMB.: 100 G 16,80€/KG Apenas 4 99 , € UNID. CAJU CRU CONTINENTE POUPANÇA EMB.: 400 G 12,48€/KG 20 % Sobre PVPR NAS AZEITONAS E TREMOÇOS DA MARCA QAMPO BIOLÓGICOS Apenas Apenas 1 99 , € UNID. LIMÃO BIOLÓGICO CONTINENTE BIO EMB.: 500 G 3,98€/KG Apenas 2 99 , € UNID. TOMATE CACHO BIOLÓGICO CONTINENTE BIO EMB.: 500 G 5,98€/KG 1,19 € 1 09 , € UNID. ALFACE BIOLÓGICA CONTINENTE BIO EMB.: 200 G 5,45€/KG 8 1 65 , € KG BANANA IMPORTADA BIOLÓGICA CONTINENTE BIO EMBALADA 1,09 € 0 99 , € UNID. CENOURA BIOLÓGICA CONTINENTE BIO EMB.: 500 G 1,98€/KG 15 % Desconto Direto 1,99 € 69 € 1 UNID. , MISTURA SEMENTES PEQUENO ALMOÇO CONTINENTE BIO EMB.: 200 G 8,45€/KG 25 % Sobre PVPR NOS FRUTOS SECOS DA MARCA MATUTANO 15 % Sobre PVPR NESTA SELEÇÃO DE PRODUTOS DA MARCA TARWI loja, site e app",
+    "698333 698140 698141 698136 698146 698148 698147 698137 698149 698142 698151 698152 698150 TALHO BOVINO Poupe 2 € 19,99 € 17 99 , € KG BABY BEEF DE BOVINO BALCÃO DE ATENDIMENTO Apenas 18 99 , € KG BIFE DA ALCATRA DE NOVILHO ANGUS Apenas 13 99 , € KG ESTUFAR PEITO DE NOVILHO ANGUS Apenas 19 99 , € KG BOM BOM DE BOVINO AMÉRICA DO SUL EMBALADO Apenas 26 99 , € KG PICANHA DE BOVINO FATIADA SKP ANGUS Apenas 19 99 , € KG T BONE STEAK DE BOVINO BLUE SMOKE CONGELADO 9 Apenas 18 99 , € KG VAZIO ALTO C/ OSSO DE NOVILHO LIMOUSINE Apenas 17 99 , € KG CLUB STEAK DE BOVINO BLUE SMOKE CONGELADO Apenas 19 99 , € KG VAZIA DE BOVINO AMÉRICA DO SUL BALCÃO DE ATENDIMENTO Apenas 14 99 , € KG MEDALHÕES DE NOVILHO NACIONAL CONTINENTE EMBALADOS Apenas 19 99 , € KG COWBOY STEAK DE BOVINO BLUE SMOKE CONGELADO Apenas 15 99 , € KG PÁ DE NOVILHO LIMOUSINE BALCÃO DE ATENDIMENTO Apenas 17 99 , € KG TOMAHAWK DE BOVINO CONGELADO BLUE SMOKE loja, site e app",
+    "698279 698277 698282 698281 698280 698285 698291 698292 698298 698293 698300 698301 PORCO TALHO Apenas 5 29 , € KG TALHO CACHAÇO DE GRANDES OPORTUNIDADES PORCOP/ASSAR S/ OSSO CONTINENTE PREPARADOS Mais de 10 % Desconto Direto 4,49 € 3 99 , € KG PÁ DE PORCO C/ OSSO CONTINENTE Apenas 4 89 , € KG ENTREMEADA DE PORCO CONTINENTE Apenas 4 99 , € KG COSTELETAS MISTAS DE PORCO CONTINENTE Apenas 4 99 , € KG ROJÕES DE PORCO CONTINENTE EMBALADOS Apenas 6 99 , € KG LOMBINHOS DE PORCO CONTINENTE 10 Apenas 8 49 , € KG BOCHECHAS DE PORCO CONTINENTE BALCÃO DE ATENDIMENTO Apenas 6 29 , € KG ENTRECOSTO DE PORCO CONTINENTE Apenas 5 29 , € KG LOMBO DE PORCO S/ OSSO CONTINENTE Apenas 6 99 , € KG TIRAS DE ENTRECOSTO DE PORCO PIANO CONTINENTE Apenas 6 49 , € KG ENTRECOSTO PORCO DUROC CONTINENTE SELEÇÃO EMBALADO Apenas 6 49 , € KG LOMBO P/ ASSAR PORCO DUROC CONTINENTE SELEÇÃO EMBALADO loja, site e app",
+    "698153 698284 698289 698138 698299 698294 698336 698287 698290 698288 698283 698296 698297 698295 698286 BORREGO Apenas 23 99 € , UNID. BORREGO PICANHA NIPA AVES Apenas 2 49 , € KG FRANGO INTEIRO CONTINENTE Apenas 2 99 , € KG PERNA DE FRANGO CONTINENTE BALCÃO DE ATENDIMENTO Apenas 6 49 , € KG PEITO DE FRANGO CONTINENTE BALCÃO DE ATENDIMENTO Apenas 8 49 , € KG PEITO DE PERU CONTINENTE BALCÃO DE ATENDIMENTO Apenas 6 59 , € KG COXAS DE FRANGO DESOSSADAS BALCÃO DE ATENDIMENTO 11 Apenas 3 39 , € KG FRANGO P/ CHURRASCO CONTINENTE EMBALADO TTAALLHHOO GRANDES OPORTUNIDADES MÃO DE VITELA S/ OSSO CONTINENTE CONGELADA Apenas 4 49 , € KG PERNIL DE PORCO CONTINENTE Apenas 3 49 , € KG COELHO INTEIRO CONTINENTE EMBALADO Apenas 6 99 , € KG HAMBÚRGUER C/ QUEIJO E ERVAS CONTINENTE EMB : 480 G 11,65€/KG Mais de 10 % Desconto Direto 6,29 € 5 59 , € UNID. Apenas 4 99 , € KG PERNA DE PERU CONTINENTE BALCÃO DE ATENDIMENTO Apenas 4 49 , € KG FRANGO DO CAMPO INTEIRO C/ MIÚDOS CONTINENTE SELEÇÃO Apenas 3 49 , € UNID. COXAS DE FRANGO CONTINENTE CONGELADAS EMB.: 1 KG Apenas 2 49 , € UNID. MOELAS DE FRANGO CONGELADAS EMB.: 1 KG loja, site e app",
+    "698346 GRELHADOS COM GOSTO! 698338 698219 698218 698337 698340 698341 698339 698342 698221 698335 698344 698343 698334 698220 698345 PREPARADOS 10 % Sobre PVPR PVPR 14,99 € 13 49 € , UNID. CARNE PICADA GRANULADA PRIME MEAT CONGELADA EMB.: 1 KG GRELHADOS COM GOSTO! Apenas Apenas 29 € 6 KG , MIX SALSICHAS DE PORCO CONTINENTE CHURRASCO SABORES DO MUNDO EMBALADO 6 29 , € KG MIX SALSICHAS DE PORCO CONTINENTE CHURRASCO LUSITANO EMBALADO 10 % Sobre PVPR PVPR 5,69 € 5 09 , € UNID. SALSICHAS ARGENTINA CHAKALL STEC EMB.: 600 G 8,48€/KG 10 % Sobre PVPR PVPR 5,69 € 5 09 , € UNID. SALSICHAS ARGENTINA PICANTE CHAKALL STEC EMB.: 600 G 8,48€/KG Apenas 8 99 , € KG CHURRASCO DE PORCO CONTINENTE EMBALADO 10 % Sobre PVPR PVPR 10,29 € 19 € 9 UNID. , HAMBÚRGUER DE NOVILHO SMASH PRIME MEAT CONGELADO EMB.: 640 G 14,36€/KG MARINADOS COM SABORES PARA TODOS OS GOSTOS 10 % Sobre PVPR 10 % Sobre PVPR PVPR 8,99 € 8 09 , € UNID. CAPRICHOS PORCO PRETO MARINADOS MIGUEL & MIGUEL EMB.: 460 G 17,59€/KG PVPR 14,99 € 13 49 , € KG ESPETADA PORCO PRETO SEGREDOS ALENTEJO C/ PIMENTOS & TOMATE BALCÃO DE ATENDIMENTO 10 % Sobre PVPR PVPR 5,69 € 5 09 , € KG ASINHAS PICANTES DE FRANGO LUSIAVES EMBALADAS 10 % Sobre PVPR PVPR 10,99 € 9 89 , € KG TIRA ENTRECOSTO TEMPERADA CAMPOFRIO BARBACOA EMBALADA 10 % Sobre PVPR PVPR 8,49 € 7 59 , € KG ENTRECOSTO C/ ERVAS FINAS TEMPERADO VALBOLOTA EMBALADO 10 % Sobre PVPR PVPR 13,99 € 12 59 , € KG ESPETADAS PORCO PRETO MIGUEL & MIGUEL C/PIMENTOS EMBALADA 12 10 % Sobre PVPR PVPR 13,99 € 12 59 , € KG MIX CHURRASCO PORCO PRETO VALBOLOTA + SALSICHAS OFERTA INCLUÍDA NA EMBALAGEM Apenas 9 99 , € KG TIRA DE ENTRECOSTO MARINADA CONTINENTE MEXICANA/ PROVENÇAL EMBALADO 10 % Sobre PVPR PVPR 7,99 € 7 19 , € KG COXA DE FRANGO DESOSSADA TEMPERADA BIFRANGA LUSIAVES loja, site e app",
+    "698538 698539 698520 698534 698537 698545 698546 698535 698526 698549 698552 698522 698517 698547 698551 QUEIJOS E CHARCUTARIA 15 % Desconto Direto NESTA SELEÇÃO DE TÁBUAS ITALIANAS DA MARCA CONTINENTE SELEÇÃO Mais 10 de % Sobre PVPR NESTA SELEÇÃO DE QUEIJOS FATIADOS DA MARCA LIMIANO EMB.: 2X200G 15 % Sobre PVPR PVPR 2,79 € 2 35 , € UNID. QUEIJO FLAMENGO LIMIANO FATIAS GROSSÍSSIMAS EMB.: 200 G 11,75€/KG Mais 15 de % Sobre PVPR NESTA SELEÇÃO DE QUEIJOS FATIADOS DA MARCA CASTELÕES 20 Mais de % Sobre PVPR PVPR 1,79 € 1 39 , € UNID. QUEIJO FRESCO BARRAR SANTIAGO ORIGINAL/ LIGHT EMB.: 150 G 9,27€/KG 25 % Sobre PVPR PVPR 1,84 € 1 38 , € UNID. QUEIJO CREME ERU REAL/ LIGHT/ C/ PRESUNTO EMB.: 100 G 13,80€/KG 15 % Sobre PVPR PVPR 3,49 € 95 € 2 UNID. , QUEIJO REGULAR/ LIGHT/ BLUE CHEESE A VACA QUE RI 16 PORÇÕES EMB.: 250 G 11,80€/KG 10 % Sobre PVPR NESTA SELEÇÃO DE QUEIJOS DA MARCA KERRYGOLD 15 Mais de % Sobre PVPR PVPR 2,69 € 19 € 2 UNID. , QUEIJO FLAMENGO ORIGINAL/ C/ 50% GORDURA MILHAFRE FATIAS EMB.: 200 G/ 180 G 10,95€/KG/ 12,17€/KG 30 % Sobre PVPR PVPR 2,49 € 1 74 , € UNID. QUEIJO RALADO EMMENTAL/ 3 QUEIJOS CAMPAINHA EMB.: 150 G 11,60€/KG 25 Mais de % Sobre PVPR PVPR 5,49 € 3 99 , € UNID. QUEIJO CAPRICE DES DIEUX EMB.: 200 G 19,95€/KG 20 % Sobre PVPR PVPR 8,79 € 6 99 , € UNID. QUEIJO FLAMENGO CAMPAINHA EMB.: 2 X 400 G 8,74€/KG 15 Mais de % Sobre PVPR PVPR 2,49 € 2 09 , € UNID. QUEIJO BIOLÓGICO TERRA NOSTRA FATIAS EMB.: 150 G 13,93€/KG 10 % Sobre PVPR NESTA SELEÇÃO DE PRODUTOS DA MARCA VIOLIFE 10 % Sobre PVPR NESTA SELEÇÃO DE QUEIJOS DA MARCA GALBANI 13 loja, site e app",
+    "698529 698531 698518 698524 698525 698528 698536 698548 698550 698530 698519 698523 698544 698521 698527 698532 698108 698109 698106 698107 QUEIJOS E CHARCUTARIA 10 Mais de % Sobre PVPR PVPR 10,29 € 8 99 , € KG QUEIJO FLAMENGO BOLA GRESSO 10 Mais de % Sobre PVPR PVPR 10,99 € 9 49 , € KG QUEIJO BOLA CURA PROLONGADA FONTE MOURISCA 10 % Sobre PVPR PVPR 10,99 € 9 79 , € UNID. QUEIJO OVELHA AMANTEIGADO SEIA LAGOS 15 Mais de % Sobre PVPR PVPR 6,79 € 5 69 , € UNID. QUEIJO DE VACA E OVELHA ALVELHE 15 % Sobre PVPR PVPR 13,59 € 11 49 , € KG QUEIJO DE VACA A QUEIJEIRA 15 Mais de % Sobre PVPR PVPR 11,99 € 9 99 , € UNID. QUEIJO DE OVELHA AMANTEIGADO PASTOR SERRANO 35 Mais de % Sobre PVPR PVPR 12,99 € 7 99 , € KG QUEIJO DE VACA AMANTEIGADO/ APIMENTADO/ MEIO GORDO PAIVA 30 % Sobre PVPR PVPR 12,99 € 8 99 , € KG QUEIJO DE VACA MEIO GORDO/ AMANTEIGADO FONTE MOURISCA 15 % Sobre PVPR PVPR 5,19 € 4 39 , € UNID. QUEIJO MIX SERRAS DE PENELA EMB.: 3 X 90 G 16,26€/KG 15 Mais de % Sobre PVPR PVPR 1,79 € 1 49 , € UNID. QUEIJO DE MISTURA REGIONAL ALENTEJANO/ MANJERICÃO & TOMILHO SANTIAGO 10 Mais de % Sobre PVPR PVPR 2,09 € 1 79 , € UNID. QUEIJO DE VACA ORIGINAL/ APIMENTADO HERDADE DA MAIA EMB.: 110 G 16,27€/KG 15 Mais de % Sobre PVPR PVPR 1,79 € 1 49 , € UNID. QUEIJO FRESCO DE VACA TÉTÉ EMB.: 2 UNID 30 % Sobre PVPR PVPR 6,99 € 4 89 , € UNID. TÁBUA CLÁSSICA 3 QUEIJOS SANTIAGO EMB.: 270 G 18,11€/KG 5,99 € 5 49 , € UNID. SALMÃO FUMADO NORUEGA CONTINENTE EMB.: 200 G 27,45€/KG BALCÃO DE ATENDIMENTO 15 % Sobre PVPR PVPR 9,99 € 8 49 , € KG QUEIJO BARRA MILHAFRE 15 % Sobre PVPR PVPR 19,99 € 16 99 , € KG FIAMBRE EXTRA CASTANEA LA SELVA 15 % Sobre PVPR PVPR 19,99 € 16 99 , € KG FIAMBRE DA PERNA EXTRA NOBRE 15 % Sobre PVPR PVPR 19,99 € 16 99 , € KG PEITO PERU FORNO LENHA CAMPOFRIO 15 % Sobre PVPR PVPR 19,99 € 16 99 , € KG PEITO FRANGO FORNO LENHA CAMPOFRIO 15 % Sobre PVPR PVPR 25,39 € 21 49 , € KG BACON EXTRA NOBRE 14 loja, site e app",
+    "698095 698092 698112 698116 698117 698115 698094 698100 698098 698114 698118 698097 698093 698110 698101 698111 698113 698099 698096 10 % Desconto Direto 1,99 € 1 79 , € UNID. PEITO DE FRANGO CONTINENTE EMB.: 150 G 11,93€/KG 10 % Desconto Direto 2,09 € 1 88 , € UNID. PEITO FRANGO FORNO DE LENHA CONTINENTE EMB.: 150 G 12,53€/KG 10 Mais de % Desconto Direto 2,59 € 2 29 , € UNID. PEITO DE FRANGO BAIXO EM SAL CONTINENTE EMB.: 150 G 15,27€/KG Mais 10 de % Sobre PVPR NESTA SELEÇÃO DE PRODUTOS DA MARCA IZIDORO 20 % Sobre PVPR NESTA SELEÇÃO DE TAPAS DA MARCA CAMPOFRIO 10 % Desconto Direto 1,59 € 1 43 , € UNID. SALSICHAS CHURRASCO CLÁSSICAS/ PICANTES CONTINENTE EMB.: 200 G 7,15€/KG 1,69 € 1 59 , € UNID. ALHEIRA DE MIRANDELA IGP CONTINENTE SELEÇÃO EMB.: 200 G 7,95€/KG 10 % Desconto Direto 1,99 € 1 79 , € UNID. FARINHEIRA GUARDA CONTINENTE EMB.: 200 G 8,95€/KG 15 20 % Sobre PVPR PVPR 2,49 € 1 99 , € UNID. SALSICHÃO CHOURIÇO/ SALAME ELPOZO EMB.: 70 G 28,43€/KG Apenas 29 € 2 UNID. , LINGUIÇA CORRENTE EXTRA/ PICANTE PACK FAMILIAR CONTINENTE EMB.: 300 G 7,63€/KG 10 % Desconto Direto 2,49 € 2 24 , € UNID. CHOURIÇO MOURO GUARDA CONTINENTE EMB.: 200 G 11,20€/KG 20 % Sobre PVPR PVPR 2,19 € 1 75 , € UNID. MORTADELA DE PERU/PERU C/ AZEITONAS CAMPOFRIO EMB.: 140 G 12,50€/KG 15 Mais de % Sobre PVPR PVPR 2,99 € 2 49 , € UNID. BACON ELPOZO FATIAS EMB.: 150 G 16,60€/KG 10 Mais de % Sobre PVPR PVPR 3,39 € 2 99 , € UNID. TÁBUA DE PORCO BÍSARO EMB.: 70 G 42,71€/KG 10 % Desconto Direto 2,89 € 2 59 , € UNID. CHOURIÇO CARNE GUARDA CONTINENTE EMB.: 200 G 12,95€/KG 20 % Sobre PVPR PVPR 2,49 € 1 99 , € UNID. FIAMBRE PERNA EXTRA NOBRE FATIAS FINAS EMB.: 120 G 16,58€/KG 10 Mais de % Sobre PVPR PVPR 4,29 € 3 69 , € UNID. PRESUNTO SERRANO 100% NATURAL DELIZIAS NOEL EMB.: 100 G 36,90€/KG 10 % Desconto Direto 5,79 € 5 19 , € UNID. CHOURIÇO CORRENTE CONTINENTE EMB.: 1 KG 10 % Desconto Direto 4,29 € 3 85 , € UNID. SALPICÃO GUARDA CONTINENTE EMB.: 270 G 14,26€/KG loja, site e app",
+    "698680 698687 698692 698698 698686 698706 698693 698688 698691 698676 698699 698689 698683 698703 698705 698701 698684 698682 698716 698719 698717 698718 698715 698696 A PADARIA DE TODA A GENTE Apenas Apenas Apenas Apenas 1 79 , € UNID. BROA MILHO AZEITONAS/ TOMATE MANJERICÃO EMB.: 350 G 5,11€/KG 1 99 , € UNID. PÃO ESCURO RIO MAIOR C/ SEMENTES EMB.: 530 G 3,75€/KG 1 99 , € UNID. PÃO ASSINATURA BARBELA E SERRACENO EMB.: 500 G 3,98€/KG 0 89 , € UNID. BAGUETE 100% INTEGRAL EMB.: 240 G 3,71€/KG Apenas 2 75 , € UNID. FOCACCIA PIMENTOS MOZZARELLA Apenas 2 50 , € UNID. FOCACCIA MOZZARELLA ALHO E ERVAS 0 45 , € UNID. FOFO DE LEITE Apenas 1 49 , € UNID. PÃO DE LEITÃO Apenas 3 35 , € UNID. MERENDA MISTA PACK POUPANÇA EMB.: 4 UNID 0,84€/UNID Apenas 4 09 , € UNID. BRIOCHE DE LEITE PACK POUPANÇA EMB.: 6 UNID 0,68€/UNID Apenas 3 19 , € UNID. FOLHADO SALSICHA C/ QUEIJO PACK POUPANÇA EMB.: 3 UNID 1,06€/UNID Apenas 1 89 , € UNID. NOSSO CROISSANT PISTÁCIO Apenas 0 99 , € UNID. CROISSANT PASTELARIA CARECA Apenas 5 99 , € UNID. TORTA RED VELVET/ PISTÁCIO EMB.: 350 G/ 400 G 17,11€/KG/ 14,98€/KG Edição Especial Apenas 2 19 , € UNID. BOLA BERLIM OAKBERRY AÇAÍ/ MANGA RED VELVET SWEE EMB.: 2 UNID 1,10€/UNID Apenas 8 29 , € UNID. TARTE AMÊNDOA RÚSTICA EMB.: 500 G 16,58€/KG Até 25 % Sobre PVPR NUMA SELEÇÃO DE PÃES DE FORMA DA MARCA BIMBO 20 % Sobre PVPR NESTA SELEÇÃO DE PÃES DA MARCA OROWEAT Apenas 1 29 , € UNID. COOKIE BANANA BREAD/ BROWNIE Mais de 20 % Desconto Direto 1,89 € 1 49 , € UNID. CROISSANT CHOCOLATE DULCA 5 UNID EMB.: 240 G 6,21€/KG Até 35 % Sobre PVPR NUMA SELEÇÃO DE PÃES DE FORMA DA MARCA PANRICO Apenas 2 79 , € UNID. BROWNIE/ BROOKIE PACK EMB.: 2 UNID 1,40€/UNID 15 % Desconto Direto NAS BISCOTTINAS TRUFA/ PRESUNTO IBÉRICO DA MARCA CONTINENTE EMB.:100G Apenas 2 19 , € UNID. PÃO MILHO TRIGO SERRÃO MUSEU DO PÃO EMB.: 450 G 4,87€/KG 16 loja, site e app",
+    "JÁ CONHECE? SANDES DE VERÃO NOVOS SABORES E COMBINAÇÕES INGREDIENTES FRESCOS Desde 3 49 , € UNID. PÃO CHAMA LOMBO PORCO PASTA COGUMELOS E CEBOLA/ BAGUETE CRISTALINA C/ PASTA CAMARÃO/ FOCACCIA PRESUNTO PASTA TOMATE E RÚCULA COZINHA CONTINENTE 17 loja, site e app 701522",
+    "697759 697782 697766 697758 697771 697754 697764 697778 697761 697765 697762 697769 697768 697753 697777 697825 3 99 , € UNID. NOODLES C/ LEGUMES/ PATO E LEGUMES COZINHA CONTINENTE EMB.: 300 G 13,30€/KG 6 99 , € UNID. MENU FRANGO ASSADO + ACOMPANHAMENTO COZINHA CONTINENTE DOSE 1 FRANGO ASSADO + 300G ARROZ BRANCO 3 49 , € UNID. HAMBÚRGUER NO PÃO COZINHA CONTINENTE EMB.: 1 UNID 3 49 , € UNID. PIZZA FAMILIAR FIAMBRE E QUEIJO CONTINENTE EMB.: 580 G 6,02€/KG 3 49 , € UNID. CALZONE FIAMBRE E QUEIJO GUAPIZZIMA EMB.: 360 G 9,69€/KG 18 Nem toda a gente quer o mesmo, mas todos gostam de comer o que é bom 0 89 , € UNID. RISSÓIS DE LEITÃO/ CAMARÃO/ CARNE COZINHA CONTINENTE 25 98 , € KG BACALHAU À GOMES DE SÁ/ C/ NATAS GRATINADO COZINHA CONTINENTE EMB: 2 KG 12.99€/ KG 1 89 , € UNID. SANDES ATUM/ DELÍCIAS DO MAR/ FRANGO/ FIAMBRE E QUEIJO COZINHA CONTINENTE EMB.: 175 G/ 180 G/ 200 G 10,80€/KG/ 10,50€/ KG/ 9,45€/KG 2 69 , € UNID. FLAUTAS DE BACON E 2 QUEIJOS/ FRANGO E 2 QUEIJOS EMB.: 220 G 12,23€/KG 2 49 , € UNID. SOPA DE AGRIÃO COZINHA CONTINENTE EMB.: 800 G 3,11€/KG 3 99 , € UNID. ESPARGUETE À BOLONHESA COZINHA CONTINENTE EMB.: 350 G 11,40€/KG 1 79 , € UNID. GRAN TORTELLO CARNE/ RAVIOLI C/ QUEIJO/ C/ RICOTTA E ESPINAFRES/ C/ QUEIJO E FIAMBRE COZINHA CONTINENTE EMB.: 250 G 7,16€/KG 5 69 , € UNID. CANNELLONIS ESPINAFRES RICOTTA CONTINENTE EMB.: 1 KG 2 99 , € UNID. SALADA DE FRANGO C/ MASSA E RÚCULA COZINHA CONTINENTE EMB.: 280 G 10,68€/KG 1 99 , € UNID. TOFU BIOLÓGICO COZINHA CONTINENTE EQUILIBRIO EMB.: 400 G 4,98€/KG 20 % Sobre PVPR NA MARCA PASTA DO DIA loja, site e app",
+    "Até 50 % Sobre PVPR NUMA SELEÇÃO DE MARCAS DE AZEITES MERCEARIA 35 Mais de % Sobre PVPR PVPR 7,69 € 4 69 , € UNID. AZEITE VIRGEM EXTRA GALLO SQUEEZE EMB.: 500 ML 9,38€/L 65 % Sobre PVPR PVPR 15,89 € 5 49 , € UNID. AZEITE VIRGEM EXTRA OLIVEIRA DA SERRA SELECIONADO EMB.: 0.75 L 7,32€/L 10 % Sobre PVPR PVPR 17,12 € 15 39 € , UNID. AZEITE VIRGEM EXTRA ROSMANINHO SUPERIOR DOP EMB.: 2 L 7,70€/L 3 99 , € UNID. ARROZ BASMATI ORIENTE EMB.: 2 KG Até 25 % Sobre PVPR NA MARCA PATO REAL MAIS PRATICIDADE MENOS DESPERDÍCIO MAIS CONTROLO MAIS FACILIDADE NO DIA A DIA 14,69 € 12 99 € , UNID. AZEITE CONTINENTE EMB.: 3 L 4,33€/L 20 % Sobre PVPR PVPR 6,61 € 5 24 , € UNID. AZEITE VIRGEM EXTRA HERDADE DA FIGUEIRINHA EMB.: 500 ML 10,48€/L Até 30 % Sobre PVPR NA MARCA FULA 3 89 , € UNID. ARROZ THAI JASMIM ORIENTE EMB.: 2 KG 1,95€/KG Até 25 % Sobre PVPR NA MARCA SALUDÃES EXCETO EMB.: 2KG 20 Mais de % Sobre PVPR NO ARROZ BASMATI PREMIUM DA MARCA CAÇAROLA EMB.: 5KG 10 % Desconto Direto 3,79 € 3 39 , € UNID. AZEITE CONTINENTE EMB.: 0.75 L 4,52€/L 25 Mais de % Desconto Direto 6,49 € 4 69 , € UNID. AZEITE VIRGEM EXTRA CONTINENTE COOPERATIVA EMB.: 0.75 L 6,25€/L 15 % Desconto Direto 4,39 € 3 69 , € UNID. AZEITE VIRGEM CONTINENTE EMB.: 0.75 L 4,92€/L 15 % Sobre PVPR PVPR 1,63 € 1 38 , € UNID. ARROZ CIGALA VAPORIZADO EMB.: 1 KG 15 Mais de % Sobre PVPR PVPR 1,59 € 1 29 , € UNID. ARROZ CIGALA INTEGRAL EMB.: 1 KG 15 Mais de % Sobre PVPR PVPR 2,39 € 1 99 , € UNID. ARROZ CIGALA RISOTTO EMB.: 1 KG 1,39 € 1 25 , € UNID. ADOÇANTE STEVIA CONTINENTE EMB.: 40 UNID 0,03€/UNID 19 loja, site e app 695781 700769 698226 695782 695785 695750 695787 695780 695749 698225 701988 698236 698231 698232 698246 698242 698245 698244 698243",
+    "30 % Sobre PVPR PVPR 1,26 € 0 88 , € UNID. ESPARGUETE MILANEZA EMB.: 500 G 1,76€/KG 20 % Sobre PVPR NO ARROZ C/ SABORES EXÓTICOS DA MARCA CAÇAROLA 30 % Sobre PVPR PVPR 1,28 € 0 89 , € UNID. ATUM EM ÓLEO PITÉU EMB.: 72 G 12,36€/KG 40 % Sobre PVPR NAS MASSAS HÉLICES, LAÇOS, LÍRIOS E CONCHAS DA MARCA MILANEZA 30 % Sobre PVPR NAS MASSAS TRICOLORES DA MARCA MILANEZA Até 25 % Sobre PVPR NA MARCA SANTA CATARINA 35 % Sobre PVPR PVPR 2,15 € 1 39 , € UNID. ATUM EM AZEITE MINERVA EMB.: 78 G 17,82€/KG Mais 30 de % Sobre PVPR NAS MASSAS MACARRONETE RISCADO, ESPIRAIS E COTOVELINHOS DA MARCA MILANEZA Mais 40 de % Sobre PVPR NAS MASSAS COMPRIDAS DA MARCA MILANEZA Até 25 % Sobre PVPR NAS ESPECIALIDADES DA MARCA PITÉU PVPR 2,95 € 2 80 , € UNID. LULAS RECHEADAS PITÉU EMB.: 72 G 38,89€/KG Até 40 % Sobre PVPR NAS MASSAS DA MARCA NACIONAL Mais 40 de % Sobre PVPR NAS MASSAS GRANDES RISCADO DA MARCA MILANEZA Até 25 % Sobre PVPR NAS CONSERVAS DA MARCA GALLO Até 50 % Sobre PVPR NA MARCA BARILLA 30 % Sobre PVPR PVPR 1,99 € 1 39 , € UNID. FARINHA DE TRIGO BRANCA DE NEVE FINA C/ FERMENTO P/ BOLOS EMB.: 1 KG 20 Mais 50 de % Sobre PVPR NAS SALSICHAS TAMANHO FAMILIAR DA MARCA IZIDORO 30 % Sobre PVPR NAS SALSICHAS FRANKFURT DA MARCA NOBRE EMB.: 8 UNID 35 % Sobre PVPR NAS CONSERVAS DA MARCA BONDUELLE 50 % Sobre PVPR PVPR 2,99 € 1 49 , € UNID. SALSICHAS IZIDORO FRANKFURT/ AVES 12 UNID EMB.: 240 G 6,21€/KG 20 % Sobre PVPR PVPR 1,69 € 1 34 , € UNID. COGUMELOS COMPAL MARRON LAMINADOS EMB.: 290 G 4,62€/KG loja, site e app 698227 698224 698229 698234 695724 698230 698228 698235 698233 695720 695733 695744 698237 695732 695717 695722 695718 695723 700592 695734 695725",
+    "Mais 20 de % Sobre PVPR NAS REFEIÇÕES VEGETARIANAS DA MARCA COMPAL 35 % Sobre PVPR NA MARCA PALADIN Mais 35 de % Sobre PVPR NOS PRODUTOS TOP DOWN MARCA CALVÉ EMB.: 550G E 754G Até 25 % Sobre PVPR NOS VINAGRES DE SIDRA DA MARCA GALLO 25 % Sobre PVPR NAS PIMENTAS EM PACOTES E FRASCOS DA MARCA MARGÃO EMB.: 25G E 35G Até 35 % Sobre PVPR NUMA SELEÇÃO DE VINAGRES DAS MARCAS CRISTAL, PONTI E MORENO 0,89 € 0 84 , € UNID. GRÃO DE BICO/ FEIJÃO CONTINENTE EM CONSERVAS FRASCO EMB.: 400 G 2,10€/KG Apenas 0 89 , € UNID. ATUM EM POSTA AO NATURAL CONTINENTE EQUILÍBRIO EMB.: 85 G 10,47€/KG 1 79 , € UNID. MOLHO PESTO CONTINENTE EMB.: 190 G 9,42€/KG 1 69 , € UNID. MOLHO CONTINENTE BASÍLICO/ NAPOLITANO/ BOLONHESA EMB.: 420 G 4,02€/KG 21 3 Leve 3 por 01 € , 1 29 , € UNID. COGUMELOS CONTINENTE LAMINADOS EMB.: 185 G 6,97€/KG A EMBALAGEM FICA A 1 € 3 Leve 3 por 15 € , 1 12 , € UNID. ATUM EM AZEITE CONTINENTE EMB.: 85 G 13,18€/KG A EMBALAGEM FICA A 1,05 € 1 99 , € UNID. MAIONESE PICANTE CONTINENTE EMB.: 257 G 7,74€/KG 25 % Sobre PVPR NAS PASSATAS E TOMATE FRITO DA MARCA GULOSO 0,87 € 0 79 , € UNID. ATUM TRITÃO EM ÓLEO EMB.: 72 G 10,97€/KG Até 25 % Sobre PVPR NA MARCA BLUE DRAGON Até 35 % Sobre PVPR NOS KETCHUPS DA MARCA HEINZ 25 % Sobre PVPR NAS POLPAS DA MARCA GULOSO EMB.:500ML 35 % Sobre PVPR NOS CALDOS DA MARCA KNORR EMB.: 8 CUBOS E 36 CUBOS 25 % Sobre PVPR NO REQUEIJÃO CREMOSO DA MARCA MABIJU EMB.: 220G Até 20 % Sobre PVPR NA MARCA MAILLE loja, site e app 695731 695729 695742 700596 695745 695728 695706 693560 693557 693568 698162 695747 695746 697518 695707 697302 693567 698158 695743 697301 695748",
+    "25 % Sobre PVPR NA MARCA PRINGLES EXCETO EMB.: 40G 35 Mais de % Sobre PVPR PVPR 2,69 € 1 69 , € UNID. BATATAS FRITAS GOURMET LAY’S CORTE FINO EMB.: 170 G 9,94€/KG Até 30 % Sobre PVPR NAS SOPAS DA MARCA KNORR 25 % Sobre PVPR NOS SNACKS DA MARCA PRINGLES DIA DE JOGO? Até 35 % Sobre PVPR NA MARCA MAGGI 30 % Sobre PVPR NOS NOODLES BANZAI Apenas 5 99 , € UNID. BOX MULTIPACK MATUDIS BATATA FRITA WORLD CUP EMB.: 1 UNID 35 % Sobre PVPR NUMA SELEÇÃO DE SNACKS DA MARCA LAY’S Até 25 % Sobre PVPR NA MARCA MISSION Até 30 % Sobre PVPR NA MARCA OLD EL PASO 35 % Sobre PVPR NOS POTS DA MARCA KNORR Mais 35 de % Sobre PVPR NOS WRAPS DA MARCA KOALA 35 Mais de % Sobre PVPR PVPR 2,69 € 1 69 , € UNID. BATATAS FRITAS LAY’S GOURMET AZEITONA EMB.: 150 G 11,27€/KG 25 Mais de % Sobre PVPR PVPR 2,39 € 1 69 , € UNID. SNACKS DE BATATAS FORNO LAY’S C/ SAL/ CAMPONESAS EMB.: 150 G/ 130 G 11,27€/KG/ 13€/KG 22 35 % Sobre PVPR PVPR 1,99 € 1 29 , € UNID. SNACKS FRITOS/ BUGLES LAY’S 3D LAY’S 3D’S MILHO/ PAPRIKA/ AMENDOIM EMB.: 85 G 15,18€/KG PVPR 3,39 € 3 19 , € UNID. NOODLES INDOMIE CAMARÃO/ FRANGO/ VEGETAIS EMB.: 5 X 70 G/ 5 X 75 G 9,11€/KG/ 8,51€/KG PVPR 2,49 € 2 19 , € UNID. BATATAS FRITAS RUFFLES SAL EMB.: 248 G 8,83€/KG Apenas 1 39 , € UNID. BATATAS FRITAS CONTINENTE CEBOLA CARAMELIZADA E VINAGRE BALSÂMICO EMB.: 150 G 9,27€/KG 2 09 , € UNID. BATATA FRITA CHURRASQUEIRA CONTINENTE EMB.: 2 X 150 G 6,97€/KG Deliciosas e crocantes Fritas em óleo de girassol Ideais para churrascos loja, site e app 698073 698072 695778 700598 695721 701486 700509 701944 695777 701497 695727 697042 698059 698077 701940 697043 698078 693559 693552",
+    "25 99 € , UNID. CÁPSULAS DE CAFÉ L’OR RISTRETTO EMB.: 80 CÁPSULAS 0,32€/CÁPSULA PVPR 11,99 € 10 79 € , UNID. CÁPSULAS DE CAFÉ BUONDI ORIGINAL/ INTENSO/ EXTREME/ RISTRETTO/ ENCORPADO EMB.: 36 CÁPSULAS 0,30€/CÁPSULA 31 99 € , UNID. CÁPSULAS DE CAFÉ DELTA Q QALIDUS/ MYTHIQ/ EPIQ/ QHARACTER EMB.: 93 CÁPSULAS +7 CÁPSULAS 0,34€/CÁPSULA 20 99 € , UNID. CÁPSULAS DE CAFÉ DOLCE GUSTO BUONDI/ BUONDI INTENSO EMB.: 64 CÁPSULAS 0,33€/CÁPSULA OFERTA INCLUÍDA NA EMBALAGEM 20 % Sobre PVPR PVPR 4,99 € 3 99 , € UNID. CÁPSULAS DE CAFÉ DELTA Q VÁRIAS INTENSIDADES EMB.: 10 CÁPSULAS 0,40€/CÁPSULA 30 % Sobre PVPR NOS CAFÉS TORRADOS DA MARCA BUONDI EMB.: 200G E 400G Mais 30 de % Sobre PVPR NUMA SELEÇÃO DE CAFÉS SOLÚVEIS DA MARCA DELTA 15 Mais de % Sobre PVPR PVPR 2,99 € 2 49 , € UNID. CAFÉ GINGA INTENSIDADE 14/ INTENSIDADE 12 EMB.: 10 CÁPSULAS 0,25€/CÁPSULA 25 Mais de % Sobre PVPR PVPR 5,49 € 99 € 3 , UNID. CAFÉ TORRADO LOTE CHÁVENA DELTA GRÃO/ MOAGEM SACO/ MOAGEM MÁQUINA EMB.: 250 G 15,96€/KG 30 Mais de % Sobre PVPR PVPR 14,99 € 9 89 , € UNID. CAFÉ SOLÚVEL NESCAFÉ GOLD EMB.: 200 G 49,45€/KG Apenas 10 49 € , UNID. CÁPSULAS DE CAFÉ COMPATÍVEIS C/ DOLCE GUSTO CONTINENTE RISTRETTO ROBUSTO/ PLATINIUM EMB.: 50 CÁPSULAS 0,21€/CÁPSULA 23 Apenas 99 € 11 , UNID. CÁPSULAS DE CAFÉ COMPATÍVEIS MÁQUINA GRAZIE CONTINENTE FORTEZZA/ CLÁSSICO EMB.: 48 CÁPSULAS 0,25€/CÁPSULA 15 Mais de % Sobre PVPR PVPR 5,99 € 4 99 , € UNID. CONCENTRADO NESCAFÉ BLACK/ CARAMELO EMB.: 500 ML +0.10€ VALOR DEPÓSITO 9,98€/L 15 % Sobre PVPR PVPR 6,99 € 89 € 5 , UNID. CÁPSULAS DE CAFÉ DOLCE GUSTO GALÃO/ BARISTA/ DESCAFEINADO INTENSO/ RICORÉ LATTE/ CAPPUCCINO EMB.: 16 CÁPSULAS 0,37€/CÁPSULA 25 % Sobre PVPR NAS CÁPSULAS DE CAFÉ DA MARCA STARBUCKS 15 % Sobre PVPR PVPR 6,59 € 59 € 5 , UNID. CÁPSULAS DE CAFÉ DOLCE GUSTO BUONDI INTENSO/ ORIGINAL SICAL DESCAFEINADO/ MEIA LEITE EMB.: 16 CÁPSULAS 0,35€/CÁPSULA Até 30 % Sobre PVPR NA MARCA NICOLA 30 % Sobre PVPR PVPR 24,99 € 17 49 € , UNID. CAFÉ SICAL GRÃO EMB.: 1 KG Mais 30 de % Sobre PVPR NAS BEBIDAS SOLÚVEIS DE CEREAIS DA MARCA DELTA Mais 25 de % Sobre PVPR NUMA SELEÇÃO DE ACHOCOLATADOS DA MARCA NESQUIK 10 99 € , UNID. CAFÉ GRÃO CONTINENTE SUPREMO EMB.: 1 KG Mais de 55 % Desconto Direto 59,99 € 24 99 € , UNID. MÁQUINA DE CAFÉ GRAZIE CONTINENTE PRETO/ CINZENTO/ BEGE EMB.: 1 UNID loja, site e app 697689 697888 697961 697688 697845 697891 697892 697948 697889 698054 693553 697893 697896 697963 697886 697890 700709 701706 698066 700506 698347 695705",
+    "Até 25 % Sobre PVPR NA MARCA CORNY Mais 25 de % Sobre PVPR NA MARCA KRAVE Até 50 % Sobre PVPR NAS BARRAS DE CEREAIS DA MARCA FITNESS Mais 25 de % Sobre PVPR NA MARCA TETLEY Mais 30 de % Sobre PVPR NOS CEREAIS DA MARCA FITNESS 30 % Sobre PVPR NAS GRANOLAS DA MARCA NACIONAL Mais 25 de % Sobre PVPR NOS CORN FLAKES DA MARCA KELLOGG´S EMB.: 500G Até 30 % Sobre PVPR NUMA SELEÇÃO DE CEREAIS CORN FLAKES DA MARCA NACIONAL Até 30 % Sobre PVPR NUMA SELEÇÃO DE CEREAIS DA MARCA CHOCAPIC 35 % Sobre PVPR PVPR 4,59 € 2 94 , € UNID. CEREAIS KIT KAT EMB.: 330 G 8,91€/KG Até 35 % Sobre PVPR NUMA SELEÇÃO DE CEREAIS DA MARCA LION 50 % Sobre PVPR NUMA SELEÇÃO DE CEREAIS DA MARCA ESTRELITAS Mais 25 de % Sobre PVPR NOS CEREAIS INFANTIS DA MARCA KELLOGG´S BEBÉ Até 25 % Sobre PVPR NOS LEITES DA MARCA NAN EXCETO LEITES 1, ESPECIAIS E PACKS PROMOCIONAIS Até 25 % Sobre PVPR NA MARCA CERELAC Até 25 % Sobre PVPR NA MARCA NESTUM Até 30 % Sobre PVPR NAS SAQUETAS DE FRUTA DA MARCA NESTLÉ Até 25 % Sobre PVPR NOS SNACKS DA MARCA GERBER 24 Até 20 % Sobre PVPR NAS REFEIÇÕES DA MARCA NESTLÉ 10 % Desconto Direto 0,99 € 0 89 , € UNID. 1º SNACK BIO CONTINENTE DO BEBÉ VÁRIOS SABORES EMB.: 20 G 44,50€/KG loja, site e app 698415 698441 698437 697885 698432 698447 698440 698443 698413 698435 698434 698433 698442 698446 698449 698445 698444 698448 698450 695716",
+    "25 % Sobre PVPR NUMA SELEÇÃO DE BOLOS DA MARCA DONUTS Até 30 % Sobre PVPR NUMA SELEÇÃO DE BOLACHAS DA MARCA OREO 25 % Sobre PVPR NAS BOLACHAS DA MARCA MILKA 30 % Sobre PVPR NAS BOLACHAS DA MARCA CHIPS AHOY! EMB.: 128G 25 % Sobre PVPR NAS BOLACHAS COOKIES DA MARCA NACIONAL PVPR 1,99 € 0 99 , € UNID. BOLACHAS WAFERS WAFER LAND! AVELÃ/ CACAU EMB.: 175 G 5,66€/KG 25 % Sobre PVPR NAS BOLACHAS WAFER CUBE, ROUND E MINI WAFER DA MARCA ARTIACH 25 % Sobre PVPR NAS BOLACHAS DA MARCA CHIQUILIN 15 % Sobre PVPR PVPR 2,09 € 1 77 , € UNID. BOLACHAS BELGAS SABOROSA CHOCOLATE EMB.: 198 G 8,94€/KG 25 % Sobre PVPR NAS BOLACHAS DA MARCA SALUTEM 25 % Sobre PVPR PVPR 2,99 € 2 24 , € UNID. BOLACHAS PICKS VIEIRA CLÁSSICO/ PICANTE/ CAMPONÊS EMB.: 180 G/ 150 G 12,44€/KG/ 14,93€/ KG 25 25 % Sobre PVPR NUMA SELEÇÃO DE BOLOS DA MARCA BOLLYCAO 25 % Sobre PVPR NAS BOLACHAS DA MARCA VIEIRA 20 % Sobre PVPR PVPR 1,99 € 1 59 , € UNID. BOLACHAS DOS MARINHEIROS CUÉTARA CHIA/ CLÁSSICAS/ ARROZ/ MILHO EMB.: 150 G 10,60€/KG 1,09 € 0 98 , € UNID. TARTELETES CONTINENTE CHOCOLATE/ MORANGO EMB.: 150 G 6,53€/KG 25 % Sobre PVPR NOS BOLOS PLANETUS DA MARCA MANHÃZITOS EMB.: 9X2UNID 25 % Sobre PVPR PVPR 2,89 € 2 14 , € UNID. MADALENAS BIMBO 0% AÇÚCARES EMB.: 232 G 9,22€/KG Até 50 % Sobre PVPR NAS BOLACHAS DIGESTIVAS DA MARCA GULLÓN Mais 35 de % Sobre PVPR NAS BOLACHAS FRUIT&FORM DA MARCA MCVITIES 1,99 € 1 84 , € UNID. BOLACHAS PEQUENO ALMOÇO CONTINENTE VÁRIOS SABORES EMB.: 300 G 6,13€/KG 25 Mais de % Sobre PVPR PVPR 3,49 € 2 54 , € UNID. BOLACHAS CREAM CRACKER TUC ORIGINAL EMB.: 3 X 100 G 8,47€/KG 1,59 € 1 49 , € UNID. MARINHEIRAS CONTINENTE CLÁSSICAS/ C/ CHIA EMB.: 180 G 8,28€/KG loja, site e app 697971 697959 697954 697950 697984 697982 697983 700738 697978 697977 697970 700735 697990 697979 697976 697980 700672 700737 700667 700666 700739 700668",
+    "PVPR 5,99 € 3 99 , € UNID. TABLETE DE CHOCOLATE MILKA TOFFE CARAMEL & NUTS/ OREO/ PEANUT CARAMEL/ AMÊNDOAS CARAMELO EMB.: 300 G/ 276 G 13,30€/KG/ 14,46€/KG Até 40 % Sobre PVPR NUMA SELEÇÃO DE SNACKS DE CHOCOLATE DAS MARCAS KIT KAT, LION E SMARTIES Até 25 % Sobre PVPR NUMA SELEÇÃO DE DRAGEIAS DE CHOCOLATE DA MARCA M&M’S PVPR 4,99 € 3 74 , € UNID. TABLETE DE CHOCOLATE MILKA LEITE/ BISCOFF/ AVELÃS INTEIRAS EMB.: 190 G 19,68€/KG PVPR 2,49 € 1 99 , € UNID. TABLETE DE CHOCOLATE NESTLÉ EXTRAFINO FILIPINOS BRANCO/ NEGRO/ CARAMELO/ MILHO FRITO EMB.: 84 G 23,69€/KG 20 % Sobre PVPR NUMA SELEÇÃO DE TABLETES DE CHOCOLATE DARK DA MARCA NESTLÉ EMB.: 120, 125 E 150G 25 % Sobre PVPR NAS TABLETES DE CHOCOLATE PERCENTAGENS DA MARCA LINDT EMB.: 50 E 100G Até 40 % Sobre PVPR NOS CARAMELOS DA MARCA WERTHER’S ORIGINAL 40 Mais de % Sobre PVPR PVPR 3,99 € 2 29 , € UNID. CHOCOLATE LUCKY MONKEY LINDT LEITE/ CRISPY/ AVELÃ EMB.: 100 G 22,90€/KG 25 % Sobre PVPR NUMA SELEÇÃO DE GOMAS DA MARCA VIDAL EMB.: 350 E 400G PVPR 7,49 € 6 39 , € UNID. SNACK DE CHOCOLATE KINDER WHITE/ BUENO CLASSIC EMB.: 312 G/ 344 G 20,48€/KG/ 18,58€/KG 25 % Sobre PVPR NAS DRAGEIAS E CARAMELOS DA MARCA MENTOS Mais 25 de % Sobre PVPR NUMA SELEÇÃO DE SNACKS DE CHOCOLATE DAS MARCAS MARS, SNICKERS E TWIX 1 19 , € UNID. GOMAS DE FRUTA CONTINENTE EQUILÍBRIO MORANGO/ MANGA EMB.: 35 G 34€/KG 40 Mais de % Sobre PVPR PVPR 3,49 € 99 € 1 UNID. , PASTILHAS ELÁSTICAS VIBES BOTTLE TRIDENT BERRY/ PEPPERMINT/ SPEARMINT EMB.: 70.2 G 28,35€/KG 30 % Sobre PVPR NA FRUTA EM CALDA DA MARCA FERBAR 40 Mais de % Sobre PVPR PVPR 3,49 € 99 € 1 UNID. , PASTILHAS ELÁSTICAS ORAL B TRIDENT SPEARMINT/ WHITE SPEAR/ PEPPERMINT EMB.: 68 G/ 68.2 G 29,26€/KG/ 29,18€/KG 25 % Sobre PVPR PVPR 4,29 € 3 19 , € UNID. DOCE 0% ADIÇÃO DE AÇÚCAR CASA DE MATEUS VÁRIOS SABORES EMB.: 280 G 11,39€/KG 26 25 % Sobre PVPR NA MARCA VAHINÉ 25 % Sobre PVPR NUMA SELEÇÃO DE AUXILIARES DE SOBREMESAS DA MARCA DR. OETCKER 0,89 € 0 84 , € UNID. GELATINAS CONTINENTE VÁRIOS SABORES EMB.: 2 X 67 G 6,27€/KG 4 49 , € UNID. PASTA 100% PISTÁCIO CONTINENTE EQUILÍBRIO EMB.: 100 G 44,90€/KG loja, site e app 697960 697989 698090 698439 697991 698438 698436 700652 697986 697985 698091 697987 697895 693565 697992 700728 697897 700713 700731 698055 700649 700374",
+    "20 % Sobre PVPR NA MARCA OATLY BIO E SAUDÁVEL 20 % Sobre NUMA SELEÇÃO DE BEBIDAS VEGETAIS NA MARCA ALPRO PVPR Desde 0 94 , € UNID. BEBIDA VEGETAL CONTINENTE EQUILÍBRIO AVEIA/ AMÊNDOA/ SOJA EMB.: 1 L 20 % Sobre PVPR NAS MASSAS BIO E S/ GLÚTEN DA MARCA RUMMO 1,99 € 1 89 , € UNID. FARINHA DE AVEIA INTEGRAL EMB.: 1 KG Até 20 % Sobre PVPR NOS PÃES BIO DA MARCA MESTEMACHER 20 % Sobre PVPR NUMA SELEÇÃO DE SAL DOS HIMALAIAS DA MARCA ORIGENS BIO 2,99 € 2 79 , € UNID. QUINOA REAL BIOLÓGICA CONTINENTE BIO EMB.: 500 G 5,58€/KG 25 % Desconto Direto 1,99 € 1 48 , € UNID. VITAMINA C SUPLA EMB.: 20 CÁPSULAS 0,07€/CÁPSULA 10 % Sobre PVPR PVPR 2,99 € 2 69 , € UNID. INFUSÃO H2O PROZIS LIMÃO/ ANANÁS/ MELANCIA/ LARANJA EMB.: 8 X 9 G 37,36€/KG 20 % Sobre PVPR NA MARCA OPTIMUM NUTRITION 27 10 % Sobre PVPR PVPR 4,39 € 3 95 , € UNID. MANTEIGA DE AMENDOIM PROZIS CREMOSA/ CROCANTE EMB.: 500 G 7,90€/KG 20 % Sobre PVPR PVPR 4,99 € 3 99 , € UNID. ÁGUA DE COCO ORIGENS BIO EMB.: 1 L 20 % Sobre PVPR PVPR 1,99 € 1 59 , € UNID. ÁGUA DE COCO WHY FOODS EMB.: 330 ML 4,82€/L Apenas 2 99 , € UNID. PÃO SEMENTES PACHAMAMA EMB.: 450 G 6,64€/KG 10 % Sobre PVPR PVPR 19,99 € 17 99 € , UNID. CREATINE PROZIS NEUTRO EMB.: 150 G 119,93€/KG Apenas 2 99 , € UNID. BISCOITOS S/ GLÚTEN LARANJA/ ALMENDRADOS MUSEU DO PÃO EMB.: 110 G 27,18€/KG Apenas 7 99 , € UNID. SUPLEMENTO OMEGA 3 ZUMUB EMB.: 90 UNID 0,09€/UNID 20 % Sobre PVPR NA MARCA DESINCOFFEE Até 25 % Sobre PVPR NA MARCA NATURES BOUNTY loja, site e app 698673 698672 700492 698247 698240 700669 698161 698248 698168 698697 696976 698167 700740 700373 698160 696977 697039 696983 701485 698210",
+    "15 Mais de % Sobre PVPR PVPR 1,07 € 0 89 , € UNID. LEITE UHT PASTAGEM TERRA NOSTRA MEIO GORDO/ MAGRO EMB.: 1 L LATICÍNIOS 10 % Sobre PVPR PVPR 3,30 € 2 97 , € UNID. LEITE + PROTEÍNA S/ LACTOSE/ MIMOSA CACAU/ CARAMELO SALGADO EMB.: 3 X 250 ML 3,96€/L Mais 10 de % Sobre PVPR NAS MANTEIGAS DA MARCA PRIMOR PVPR 0,91 € 0 87 , € UNID. LEITE UHT GRESSO MEIO GORDO/ MAGRO EMB.: 1 L 10 Mais de % Sobre PVPR PVPR 1,24 € 1 10 , € UNID. LEITE UHT MATINAL SELECIONADO LEVE GARRAFA: 1 L 20 % Sobre PVPR PVPR 2,24 € 1 79 , € UNID. LEITE BEM ESPECIAL MIMOSA CRESCIMENTO 1 3/ 3+ ANOS EMB.: 1 L 10 Mais de % Sobre PVPR PVPR 1,14 € 1 € UNID. LEITE UHT BEM ESPECIAL MIMOSA MAGRO/ MEIO GORDO EMB.: 1 L 25 % Sobre PVPR NUMA SELEÇÃO DE LEITES C/ CHOCOLATE DA MARCA UCAL 15 % Sobre PVPR NUMA SELEÇÃO DE NATAS E BÉCHAMEL DA MARCA MIMOSA 10 Mais de % Sobre PVPR PVPR 1,29 € 1 14 , € UNID. LEITE UHT PASTAGEM S/ LACTOSE NOVA AÇORES MAGRO/ MEIO GORDO EMB.: 1 L 15 % Sobre PVPR PVPR 1,99 € 1 69 , € UNID. LEITE AROMATIZADO MIMOSA MORANGO/ CHOCOLATE EMB.: 4 X 200 ML 2,11€/L 20 % Sobre PVPR NUMA SELEÇÃO DE NATAS DA MARCA PARMALAT 1 99 , € UNID. MANTEIGA S/ SAL CONTINENTE EMB.: 250 G 7,96€/KG PVPR 2,45 € 2 29 , € UNID. MANTEIGA TERRA NOSTRA C/ SAL/ S/ SAL EMB.: 250 G 9,16€/KG 1 69 , € UNID. BEM ESTAR LÍQUIDO/ PEDAÇOS CONTINENTE EQUILÍBRIO VÁRIOS SABORES EMB.: 4 X 160 G 2,64€/KG 28 Até 25 % Sobre PVPR NUMA SELEÇÃO DE CREMES P/ BARRAR DA MARCA PLANTA EMB.: 400G E 1KG Até 40 % Sobre PVPR NUMA SELEÇÃO DE CREMES P/ BARRAR DA MARCA BECEL 1 69 , € UNID. CREME CULINÁRIO LÍQUIDO CONTINENTE EMB.: 500 ML 3,38€/L loja, site e app 698659 698675 698658 698667 698661 698652 701698 698655 700591 698654 698663 698665 698664 693556 698657 698669 700743 700742",
+    "20 % Sobre PVPR NIAOCUGTMUIVARIASTEESLEKÇÉÃFOIRDDEA MARCA |NUMA_SELECAO_DE_IOGURTES_KEFIR_DA_MARCA_ACTIVIA_698365 20 % Sobre PVPR NMUAMRCAASEALLEPÇRÃOO DE PRODUTOS DA |NUMA_SELECAO_DE_PRODUTOS_DA_MARCA_ALPRO_698366 Mais 40 de % Sobre PVPR NUMA SELEÇÃO DE IOGURTES DA MARCA ACTIVIA |NUMA_SELECAO_DE_IOGURTES_DA_MARCA_ACTIVIA_698361 Mais 40 de % Sobre PVPR NOS IOGURTES MAGROS DA MARCA DANONE |NOS_IOGURTES_MAGROS_DA_MARCA_DANONE_DANONINO_698360 20 % Sobre PVPR NA MARCA DANONINO |NA_MARCA_DANONINO_698364 Mais 35 de % Sobre PVPR NLÍUQMUIADSOESLEDÇAÃMOADRECIAODGAUNROTENSE |NUMA_SELECAO_DE_IOGURTES_LIQUIDOS_DA_MARCA_DANONE_698362 Mais 25 de % Sobre PVPR NUMA SELEÇÃO DE IOGURTES DA MARCA YO PRO |NUMA_SELECAO_DE_IOGURTES_DA_MARCA_YO_PRO_698363 Até 50 % Sobre PVPR 29 loja, site e app 698365 698366 698361 698360 698364 698362 698363",
+    "Até 25 % Sobre PVPR CONGELADOS NAS REFEIÇÕES PRONTAS DA MARCA TAKE AWAY 30 % Sobre NAS PIZZAS DA MARCA TRADIZIONALE PVPR 30 Mais de % Sobre PVPR PVPR 11,99 € 7 99 , € UNID. FILETES IGLO PEIXE EMB.: 6 UNID 1,33€/UNID 25 % Sobre PVPR PVPR 15,99 € 11 99 € , UNID. CORDON BLUE IGLO 6 UNID EMB.: 600 G 19,98€/KG 15 % Sobre PVPR PVPR 6,39 € 5 39 , € UNID. ERVILHAS IGLO ULTRACONGELADAS EMB.: 1.125 KG 4,79€/KG 45 Mais de % Sobre PVPR PVPR 5,69 € 2 99 , € UNID. DOURADINHOS CAPITÃO IGLO ULTRACONGELADOS PESCADA FORNÍSSIMO EMB.: 300 G 9,97€/KG Até 50 % Sobre PVPR NOS NUGGETS DA MARCA IGLO 55 % Sobre PVPR PVPR 19,99 € 8 99 , € UNID. NUGGETS AMERICANOS CAPITÃO IGLO ULTRACONGELADOS EMB.: 38 UNID 0,24€/UNID 40 % Sobre PVPR NUMA SELEÇÃO DE HAMBÚRGUERES DA MARCA IGLO Até 25 % Sobre PVPR NOS PRODUTOS DA MARCA PESCANOVA FORMATOS FAMILIARES 20 Mais de % Sobre PVPR PVPR 4,99 € 3 89 , € UNID. MINI PIZZA RISTORANTE SALAME/ PROSCIUTTO EMB.: 288 G 13,51€/KG 30 25 % Sobre PVPR PVPR 2,99 € 2 24 , € UNID. BATATA AIRFRYER MINIBRAVA MC CAIN NOISETTES EMB.: 750 G 2,99€/KG 20 % Sobre PVPR PVPR 3,52 € 2 79 , € UNID. CAPRICHOS DO MAR PESCANOVA S/ GLÚTEN ULTRACONGELADOS EMB.: 400 G 6,98€/KG 15 % Sobre PVPR PVPR 3,79 € 3 19 , € UNID. BATATA PALITO AIRFRYER MC CAIN JULIENNE EMB.: 600 G 5,32€/KG 25 % Sobre PVPR PVPR 4,99 € 74 € 3 , UNID. FILETES PRIMAVERA IGLO ULTRACONGELADOS ALHO & ERVAS/ LIMÃO EMB.: 225 G 16,62€/KG 25 % Sobre PVPR PVPR 5,34 € 99 € 3 , UNID. CROCANTES DE FRANGO IGLO PARMESÃO&ERVAS/ ORIGINAL EMB.: 180 G 22,17€/KG 25 % Sobre PVPR NUMA SELEÇÃO DE PRODUTOS DA MARCA GREEN CUISINE 20 Mais de % Sobre PVPR PVPR 4,99 € 3 89 , € UNID. PIADINA DR. OETKER PROSCIUTTO/ DIAVOLA/ 4 FORMAGGI EMB.: 280 G 13,89€/KG 50 % Sobre PVPR PVPR 3,79 € 1 89 , € UNID. ERVILHAS BONDUELLE NATUR EMB.: 700 G 2,70€/KG loja, site e app 698371 697966 697952 698019 697956 697967 698017 697949 698015 700719 697955 698369 698016 700724 697974 698375 697973 697964 697972",
+    "20 Mais de % Sobre PVPR PVPR 8,95 € 6 79 , € UNID. GELADO O GELADO VÁRIOS SABORES EMB.: 490 ML/ 460 ML 13,86€/L/ 14,76€/L 40 % Sobre PVPR PVPR 4,99 € 2 99 , € UNID. GEL MINI SOLERO RED BERRIES EMB.: 6 UNID 0,50€/UNID 40 % Sobre PVPR NOS GELADOS SANDWICH DA MARCA OLÁ 50 % Sobre PVPR PVPR 3,99 € 99 € 1 , UNID. GELADO SOLERO EXOTIC/ MINI ANANÁS/ STRAWBERRY TWIST EMB.: 3 UNID/ 6 UNID 0,66€/UNID/ 0,33€/ UNID 40 % Sobre PVPR PVPR 4,99 € 99 € 2 , UNID. GELADO OLÁ PERNA PAU/ CALIPPO SUPER MIX/ FIZZ LIMÃO/ HARIBOPUSH UP EMB.: 6 X 70 ML/ 5 X 105 ML/ 6 X 60 ML/ 4 UNID 7,12€/L/ 5,70€/L/ 8,31€/L/ 0,75€/UNID PVPR 3,19 € 2 99 , € UNID. GELADO OLÁ FRUTOS EXÓTICOS/ CARAMELO SALGADO EMB.: 900 ML 3,32€/L 35 % Sobre PVPR NA MARCA VIENNETTA Até 40 % Sobre PVPR NA MARCA CARTE D’OR 31 3 49 , € UNID. GELADOS AMERICANOS CONTINENTE PIEFECTION/ PECULOST IN LAYERS/ TROPICAL VOLCANO/ GIVE ME S’MORE EMB.: 500 ML 6,98€/L 2 49 , € UNID. GELADO MAGNÍFICO FUSION CONTINENTE LIMÃO E FRAMBOESA/ COCO E MANGA/ CHOCOLATE E FLOR DE SAL EMB.: 3 UNID 0,83€/UNID 3 49 , € UNID. GELADO AMERICANO/ CONE CONTINENTE HELLA NUTS EMB.: 500 ML/ 3 UNID 6,98€/L/ 1,16€/UNID loja, site e app 697965 698374 698018 698368 698370 697962 698020 697951 697760 697756 697770",
+    "4 99 , € UNID. SNACK FRANUÍ FRAMBOESA CHOCOLATE NEGRO/ CHOCO LEITE/ FRAMBOESA PINK EMB.: 150 G 33,27€/KG Até 25 % Sobre PVPR NOS GELADOS DA MARCA KINDER EMB.: 4 UNID o 40 Mais de % Sobre PVPR PVPR 5,99 € 3 49 , € UNID. GELADO CORNETTO MORANGO/ CLÁSSICO EMB.: 6 UNID 0,58€/UNID 40 % Sobre PVPR NUMA SELEÇÃO DE GELADOS DA MARCA MAGNUM 30 Mais de % Sobre PVPR PVPR 5,99 € 3 99 , € UNID. GELADO CORNETTO MANGA E BAUNILHA/ PISTACHIO EMB.: 4 UNID 1€/UNID 40 % Sobre PVPR NOS GELADOS PINTS DA MARCA MAGNUM 40 % Sobre PVPR NOS GELADOS AFTER DINNER, BOMBONIERA E CARAMEL&NUTS DA MARCA MAGNUM 25 Mais de % Sobre PVPR PVPR 6,99 € 99 € 4 , UNID. GELADO BEN & JERRY’S CHOCOLATE FUDGE BROWNIE/ PEANUT BUTTER/ COOKIE DOUGH EMB.: 465 ML 10,73€/L 26 % Sobre PVPR NA MARCA SWEE 32 s w e e FEAT Desde 2 79 , € UNID. GELADO DE COCO/ LARANJA CONTINENTE EMB.: 2 X 180 ML EMB.: 2 UNID loja, site e app 698451 698367 700650 697957 698372 700651 698373 700720 697953 697779",
+    "VAI NA VOLTA TAMBÉM ACUMULA EM CARTÃO Ao devolver as suas embalagens Volta no Continente Ecospot pode acumular o valor de depósito em Cartão Continente. MKT ACUMULE P/ EMBALAGEM EM CARTÃO 33 loja, site e app",
+    "Até 25 % Sobre PVPR NA MARCA COMPAL VITAL BEBIDAS Até 15 % Sobre PVPR NUMA SELEÇÃO DE SUMOS DA MARCA COMPAL 100% FRUTA EMB.: 1L 20 % Sobre PVPR NA ÁGUA S/ GÁS DA MARCA LUSO EMB.:1.5L SUMOS Até 15 % Sobre PVPR NUMA SELEÇÃO DE SUMOS DA MARCA COMPAL ORIGENS EMB.: 1L 20 % Sobre PVPR PVPR 2,99 € 2 39 , € UNID. NÉCTAR COMPAL TUTTI FRUTTI/ PÊSSEGO/ MANGA,LARANJA EMB.: 6 X 20 CL 1,99€/L Até 15 % Sobre PVPR NA MARCA COMPAL FRESCO Mais 25 de % Sobre PVPR NA MARCA CAPRI SUN Até 20 % Sobre PVPR NUMA SELEÇÃO DE SUMOS DA MARCA UM BONGO EMB.: 1L 6X200ML ÁGUAS Até 20 % Sobre PVPR NA MARCA FASTIO Até 20 % Sobre PVPR NUMA SELEÇÃO DE SUMOS DA MARCA ANDROS EMB.: 1L Desde 39 € 1 , UNID. SUMOS 100% REFRIGERADOS CONTINENTE EQUILÍBRIO VÁRIOS SABORES +0.10€ VALOR DEPÓSITO EMB.: 750 ML Desde 1 35 , € UNID. NÉCTAR CONTINENTE MANGA/PÊSSEGO/ MARCACUJÁ, MAÇÃ E MANGA EMB.: 1.5 L 1 89 , € UNID. MOCKTAIL CONTINENTE DAQUIRI MORANGO/ MOSCOW MULE +0.10€ VALOR DEPÓSITO EMB.: 750 ML 2,52€/L 1 19 , € UNID. SMOOTHIE SUPER BREAKFAST CONTINENTE EQUILÍBRIO VÁRIOS SABORES +0.10€ VALOR DEPÓSITO EMB.: 250 ML 4,76€/L ALCALINA Apenas 0 70 , € UNID. ÁGUA S/ GÁS MONCHIQUE +0.10€ VALOR DEPÓSITO EMB.: 1.5 L 0,47€/L ÁGUA C/ GÁS 15 Mais de % Sobre PVPR PVPR 3,69 € 2 99 , € UNID. ÁGUA C/ GÁS PEDRAS SALGADAS NATURAL/ LEVÍSSIMA EMB.: 6 X 33 CL 1,51€/L 20 % Sobre PVPR NA MARCA CASTELLO 2 79 , € UNID. ÁGUA C/ GÁS CONTINENTE ANANÁS/ MANGA LARANJA % EMB.: 6 X 25 CL 1,86€/L 20 % Sobre PVPR PVPR 1,99 € 1 59 , € UNID. ÁGUA C/ GÁS PEDRAS SABORES LIMÃO/ ANANÁS EMB.: 1 L Mais 20 de % Sobre PVPR NUMA SELEÇÃO DE ÁGUAS C/ GÁS DA MARCA FRIZE COM A TRANSIÇÃO PARA O SDR, PODEM AINDA EXISTIR EMBALAGENS SEM DEPÓSITO ASSOCIADO, SENDO QUE AS EMBALAGENS COM DEPÓSITO ESTÃO DEVIDAMENTE MARCADAS COM UM SÍMBOLO QUE AS IDENTIFICA. 34 loja, site e app 698166 698165 700712 698164 698256 697926 698163 698169 698171 698170 694551 694552 694553 694554 697670 697947 697927 697772 700711 697928",
+    "Até 25 % Sobre PVPR NUMA SELEÇÃO DE REFRIGERANTES C/GÁS DA MARCA SUMOL EMB.: 1.5L, 33CL E 6X33CL Mais 10 de % Sobre PVPR NOS REFRIGERANTES C/GÁS DA MARCA ANTARCTICA EMB.: 1.75L E 6X33CL Até 35 % Sobre PVPR NA MARCA JOI COLAS 10 % Sobre PVPR NOS REFRIGERANTES C/ GÁS ORIGINAL E ZERO DA MARCA COCA COLA EMB.: 2X1.75L 10 % Sobre PVPR NUMA SELEÇÃO DE REFRIGERANTES C/ GÁS ZERO DA MARCA COCA COLA EMB.: 1L REFRIGERANTES S/ GÁS 1 49 , € UNID. REFRIGERANTE C/GÁS SPRITE/ FANTA VÁRIOS SABORES +0.10€ VALOR DEPÓSITO EMB.: 1.5 L + 0.5L 0,99€/L ENERGÉTICAS OFERTA INCLUÍDA NA EMBALAGEM Até 25 % Sobre PVPR NUMA SELEÇÃO DE BEBIDAS ENERGETICAS DA MARCA RED BULL EMB.: 25CL 15 Mais de % Sobre PVPR PVPR 1,19 € 0 99 , € UNID. REFRIGERANTE C/ GÁS COCA COLA +0.10€ VALOR DEPÓSITO EMB.: 50 CL 1,98€/L 15 % Sobre PVPR Mais 20 de % Sobre PVPR NOS REFRIGERANTES C/ GÁS ORIGINAL E ZERO DA MARCA PEPSI EMB.: 1.75L © 2026 The Coca-Cola Company. Coca-Cola é uma marca registada da The Coca-Cola Company. Campanha válida de 1 de Maio a 31 de Dezembro de 2026. NUMA SELEÇÃO DE REFRIGERANTES C/ GÁS DAS MARCAS COCA COLA, FANTA E SPRITE EMB.: 6X33CL Até 35 % Sobre PVPR NUMA SELEÇÃO DE BEBIDAS ENERGÉTICAS DA MARCA MONSTER EMB.: 4X50CL Até 25 % Sobre PVPR NA MARCA BURN LIMAS Mais 15 de % Sobre PVPR NUMA SELEÇÃO DE REFRIGERANTES C/ GÁS ZERO DA MARCA SEVEN UP EMB.: 1L, 33CL E 6X33CL REFRIGERANTES S/ GÁS Mais 25 de % Sobre PVPR NA MARCA SUNNY DELIGHT TISANAS 1 39 , € UNID. TISANAS CONTINENTE EQUILÍBRIO VÁRIOS SABORES +0.10€ VALOR DEPÓSITO EMB.: 1 L REFRIGERANTES C/ GÁS 1 29 , € UNID. REFRIGERANTE C/GÁS FIZZUP CONTINENTE LARANJA/ ANANÁS +0.10€ VALOR DEPÓSITO EMB.: 2 L 0,65€/L Mais 30 de % Sobre PVPR NO REFRIGERANTE S/ GÁS LARANJA/ CENOURA DA MARCA SANTAL EMB.: 1.5L REFRIGERANTES S/ GÁS CONCENTRADOS 20 % Sobre PVPR PVPR 5,99 € 4 79 , € UNID. CONCENTRADOS GUD LARANJA&MARACUJÁ/ LARANJA EMB.: 74 CL 6,47€/L COLAS 1 39 , € UNID. REFRIGERANTE S/ GÁS CONTINENTE TROPICAL E CENOURA/ LARANJA E CENOURA +0.10€ VALOR DEPÓSITO EMB.: 1.5 L 0,93€/L Desde 0 79 , € UNID. REFRIGERANTE C/ GÁS CONTINENTE COLA ZERO +0,10€ VALOR DEPÓSITO EMB.: 2 L COM A TRANSIÇÃO PARA O SDR, PODEM AINDA EXISTIR EMBALAGENS SEM DEPÓSITO ASSOCIADO, SENDO QUE AS EMBALAGENS COM DEPÓSITO ESTÃO DEVIDAMENTE MARCADAS COM UM SÍMBOLO QUE AS IDENTIFICA. 35 loja, site e app 698062 698065 698069 701990 698056 700493 700673 698063 698068 698082 698083 700733 698075 698070 698061 698076 697767 697780 697781 697773",
+    "CERVEJA NACIONAL 50 Até % Sobre PVPR NA MARCA SUPER BOCK O futebol é dos amigos 50 Mais de % Sobre PVPR PVPR 32,99 € 15 69 € , UNID. CERVEJA C/ ÁLCOOL SAGRES BRANCA EMB.: 35 X 25 CL 1,79€/L 50 Mais de % Sobre PVPR PVPR 28,99 € 13 49 € , UNID. CERVEJA C/ ÁLCOOL SAGRES MINI, TARA PERDIDA EMB.: 30 X 25 CL 1,80€/L 50 Mais de % Sobre PVPR PVPR 23,99 € 11 69 € , UNID. CERVEJA C/ ÁLCOOL SAGRES TARA PERDIDA EMB.: 24 X 25 CL 1,95€/L 50 Mais de % Sobre PVPR PVPR 16,39 € 7 49 , € UNID. CERVEJA C/ ÁLCOOL SAGRES TARA PERDIDA EMB.: 15 X 25 CL 2€/L CERVEJA ESTRANGEIRA 25 % Sobre PVPR PVPR 19,99 € 14 99 € , UNID. CERVEJA C/ ÁLCOOL HEINEKEN ORIGINAL EMB.: 24 X 25 CL 2,50€/L 25 % Sobre PVPR PVPR 9,98 € 7 39 , € UNID. CERVEJA C/ ÁLCOOL CARLSBERG TARA PERDIDA EMB.: 12 X 25 CL 2,46€/L 10 % Sobre PVPR NA CERVEJA DA MARCA CORONA Até 20 % Sobre PVPR NUMA SELEÇÃO DE CERVEJAS DA MARCA ESTRELLA DAMM 25 % Sobre PVPR PVPR 25,31 € 18 98 € , UNID. CERVEJA C/ ÁLCOOL HEINEKEN BARRIL EMB.: 5 L 3,80€/L SIDRAS 30 Até % Sobre PVPR NA MARCA SOMERSBY É FRUTO DA TUA IMAGINAÇÃO Mais 45 de % Sobre PVPR NAS SIDRAS DA MARCA BANDIDA EMB.: 6X25CL, 10X25CL E 15X25CL COM A TRANSIÇÃO PARA O SDR, PODEM AINDA EXISTIR EMBALAGENS SEM DEPÓSITO ASSOCIADO, SENDO QUE AS EMBALAGENS COM DEPÓSITO ESTÃO DEVIDAMENTE MARCADAS COM UM SÍMBOLO QUE AS IDENTIFICA. 36 loja, site e app 697900 697908 700708 697907 697903 697906 697910 697932 697905 697924 697946 697945",
+    "20 Mais de % Sobre PVPR PVPR 2,29 € 1 79 , € UNID. VINHO MUNDUS LEVE, LISBOA, BRANCO/ ROSÉ GARRAFA: 75 CL 2,39€/L 30 % Sobre PVPR PVPR 2,79 € 1 95 , € UNID. VINHO TERRAS DEL REI ALENTEJO, BRANCO/ TINTO GARRAFA: 75 CL 2,60€/L 50 % Sobre PVPR PVPR 5,99 € 2 99 , € UNID. VINHO MONTE DOS AMIGOS ALENTEJO, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 3,99€/L 25 Mais de % Sobre PVPR PVPR 4,99 € 69 € 3 UNID. , VINHO AVELEDA FONTE VINHO VERDE, BRANCO/ VERDE, ROSÉ GARRAFA: 75 CL 4,92€/L 25 Mais de % Sobre PVPR PVPR 5,59 € 3 99 , € UNID. VINHO BICO AMARELO ESPORÃO VINHO VERDE, BRANCO GARRAFA: 75 CL 5,32€/L 35 % Sobre PVPR PVPR 7,99 € 5 19 , € UNID. VINHO QUADRIFOLIA BY VALLADO DOURO, BRANCO/ TINTO GARRAFA: 75 CL 6,92€/L 37 GARRAFEIRA 25 % Sobre 20 % Sobre PVPR PVPR PVPR 4,39 € 3 29 , € UNID. VINHO LAGOSTA VINHO VERDE, BRANCO/ ROSÉ GARRAFA: 75 CL 4,39€/L PVPR 5,99 € 4 79 , € UNID. VINHO PLANALTO RESERVA, DOURO, BRANCO GARRAFA: 75 CL 6,39€/L 35 Mais de % Sobre PVPR PVPR 3,29 € 2 09 , € UNID. VINHO ENCOSTAS DO CÔA BEIRA INTERIOR, BRANCO/ TINTO GARRAFA: 75 CL 2,79€/L 50 % Sobre PVPR PVPR 6,39 € 3 19 , € UNID. VINHO FLOR D’ PENALVA DÃO, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 4,25€/L 65 % Sobre PVPR PVPR 10,59 € 69 € 3 UNID. , VINHO SOBREIRO DE PEGÕES PREMIUM, PENÍNSULA DE SETÚBAL, BRANCO/ TINTO GARRAFA: 75 CL 4,92€/L 70 % Desconto Direto 13,49 € 3 99 , € UNID. VINHO CANCELLUS PREMIUM, DOURO, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 5,32€/L 25 % Sobre PVPR PVPR 6,99 € 5 24 , € UNID. VINHO TRINCA BOLOTAS ALENTEJO, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 6,99€/L 60 Mais de % Sobre PVPR PVPR 6,49 € 2 29 , € UNID. VINHO CAVALO BRAVO TEJO, BRANCO/ TINTO GARRAFA: 75 CL 3,05€/L 45 % Sobre PVPR PVPR 6,29 € 3 45 , € UNID. VINHO AFONSINO VINHO VERDE, BRANCO GARRAFA: 75 CL 4,60€/L 30 % Sobre PVPR PVPR 5,49 € 3 79 , € UNID. VINHO SOSSEGO ALENTEJO, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 5,05€/L 30 Mais de % Sobre PVPR PVPR 5,99 € 3 99 , € UNID. VINHO TONS DE DUORUM DOURO, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 5,32€/L 70 % Sobre PVPR PVPR 18,99 € 5 69 , € UNID. VINHO VINHA DA VALENTINA TINTO GARRAFA: 75 CL 7,59€/L 55 % Sobre PVPR PVPR 5,89 € 2 65 , € UNID. VINHO MULA VELHA LISBOA, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 3,53€/L 65 % Sobre PVPR PVPR 9,99 € 3 49 , € UNID. VINHO VIDIGUEIRA PREMIUM, ALENTEJO, BRANCO/ TINTO GARRAFA: 75 CL 4,65€/L 30 Mais de % Sobre PVPR PVPR 5,99 € 3 99 , € UNID. VINHO EA ALENTEJO, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 5,32€/L 60 % Sobre PVPR PVPR 11,99 € 4 79 , € UNID. VINHO CICONIA PREMIUM, ALENTEJO, BRANCO/ TINTO GARRAFA: 75 CL 6,39€/L 65 % Sobre PVPR PVPR 16,99 € 5 89 , € UNID. VINHO GUARDA RIOS SIGNATURE, ALENTEJO, BRANCO/ TINTO GARRAFA: 75 CL 7,85€/L loja, site e app 698181 698185 698173 698200 698194 698177 698180 698205 698188 698204 698196 698179 698184 698195 698182 698190 698193 698201 698203 698187 698202 698189 698199",
+    "60 % Sobre PVPR PVPR 4,99 € 1 99 , € UNID. VINHO CAVES DE PEGÕES PENÍNSULA DE SETÚBAL, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 2,65€/L 55 % Desconto Direto 6,69 € 2 99 , € UNID. VINHO PÊRA DOCE ALENTEJO, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 3,99€/L 35 % Sobre PVPR PVPR 7,69 € 4 99 , € UNID. VINHO EA SYRAH, ALENTEJO, TINTO GARRAFA: 75 CL 6,65€/L 25 % Sobre PVPR PVPR 7,99 € 5 99 , € UNID. VINHO ASSOBIO DOURO, BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 7,99€/L 50 % Sobre PVPR PVPR 11,99 € 5 99 , € UNID. VINHO CICONIA TÊTE DE CUVÉE, ALENTEJO, ROSÉ GARRAFA: 75 CL 7,99€/L 15 Mais de % Sobre PVPR PVPR 11,19 € 8 99 , € UNID. VINHO CARM DOURO, BRANCO/ TINTO GARRAFA: 75 CL 11,99€/L Carm tem mas não tem Seja responsável. Beba com moderação. Até 35 % Sobre PVPR NUMA SELEÇÃO DE BAG IN BOX EMB.: 5L 25 % Sobre PVPR PVPR 18,79 € 14 09 € , UNID. VINHO ESPORÃO BIOLÓGICO, RESERVA, ALENTEJO, BRANCO GARRAFA: 75 CL 18,79€/L 25 % Sobre PVPR PVPR 8,89 € 6 65 , € UNID. VINHO PEDRAS NEGRAS BRANCO EMB.: 5 L 1,33€/L 30 Mais de % Desconto Direto 3,59 € 2 39 , € UNID. VINHO FRISANTE GARÇOTE BRANCO/ ROSÉ GARRAFA: 75 CL 3,19€/L Mais 20 de % Sobre PVPR NESTA SELEÇÃO DE COCKTAILS READY TO DRINKS 38 25 Mais de % Sobre PVPR PVPR 2,79 € 1 99 , € UNID. VINHO FAISÃO BRANCO/ ROSÉ/ TINTO GARRAFA: 75 CL 2,65€/L 20 Mais de % Sobre PVPR PVPR 5,29 € 3 99 , € UNID. COCKTAIL CASAL GARCIA FRUITZY VÁRIOS SABORES GARRAFA: 75 CL 5,32€/L 65 % Sobre PVPR PVPR 18,99 € 6 59 , € UNID. VINHO COUTADA VELHA SIGNATURE, ALENTEJO, BRANCO/ TINTO GARRAFA: 75 CL 8,79€/L 25 % Sobre PVPR PVPR 19,99 € 14 99 € , UNID. VINHO ESPORÃO RESERVA, BIOLÓGICO, ALENTEJO, TINTO GARRAFA: 75 CL 19,99€/L 25 % Sobre PVPR PVPR 8,89 € 6 65 , € UNID. VINHO PEDRAS NEGRAS TINTO EMB.: 5 L 1,33€/L 35 Mais de % Desconto Direto 3,99 € 2 49 , € UNID. VINHO ROSETA ROSÉ GARRAFA: 75 CL 3,32€/L 50 % Sobre PVPR PVPR 8,59 € 4 29 , € UNID. ESPUMANTE VINHA MARIA BRUTO, BRANCO/ ROSÉ GARRAFA: 75 CL 5,72€/L 35 Mais de % Sobre PVPR PVPR 11,99 € 7 64 , € UNID. VINHO VENTOZELO RESERVA, DOURO, BRANCO/ TINTO GARRAFA: 75 CL 10,19€/L GRANDES FORMATOS 55 % Desconto Direto 19,98 € 8 99 , € UNID. VINHO PÊRA DOCE RESERVA, ALENTEJO, TINTO GARRAFA: 1.5 L 5,99€/L 20 % Sobre PVPR PVPR 1,99 € 1 59 , € UNID. VINHO FRISANTE CASA PACIÊNCIA BRANCO/ ROSÉ GARRAFA: 75 CL 2,12€/L Até 25 % Sobre PVPR NUMA SELEÇÃO DE VINHOS ROSÉ E SANGRIAS DA MARCA CASAL GARCIA 50 % Sobre PVPR PVPR 9,69 € 4 79 , € UNID. ESPUMANTE FITA AZUL MEIO SECO/ BRUTO/ GOLD EDITION, BRUTO, ROSÉ/ DOCE, BRANCO GARRAFA: 75 CL 6,39€/L loja, site e app 698178 698183 698175 698192 698191 698176 698197 698186 700653 700660 698259 698172 698174 700732 700715 700714 698263 698255 700657 698262 698250 698321 700654",
+    "Até 25 % Sobre PVPR NA MARCA LA CASERA 15 % Sobre PVPR NA MARCA HENDRICK’S Mais 20 de % Sobre PVPR NA MARCA THE FAMOUS GROUSE 20 % Sobre PVPR PVPR 51,49 € 40 79 € , UNID. CHAMPANHE MUMM CORDON ROUGE, BRUT, BRANCO GARRAFA: 75 CL 54,39€/L 50 % Sobre PVPR PVPR 13,99 € 6 99 , € UNID. VINHO DO PORTO BARROS SINGULAR RESERVE GARRAFA: 75 CL 9,32€/L 50 % Sobre PVPR PVPR 15,19 € 59 € 7 UNID. , MOSCATEL DE SETÚBAL VENÂNCIO COSTA LIMA RESERVA DA FAMÍLIA, 5 ANOS GARRAFA: 75 CL 10,12€/L 15 Mais de % Sobre PVPR PVPR 15,69 € 13 15 € , UNID. VODKA ERISTOFF BLACK/ PINK GARRAFA: 70 CL 18,79€/L Sobre PVPR Menos 2 € PVPR 19,99 € 17 99 € , UNID. AGUARDENTE FIM DE SÉCULO GARRAFA: 70 CL 25,70€/L 39 20 % Sobre PVPR PVPR 9,99 € 7 99 , € UNID. ESPUMANTE FREIXENET CAVA, CÓRDON NEGRO, BRUTO, BRANCO GARRAFA: 75 CL 10,65€/L 50 % Sobre PVPR PVPR 14,98 € 7 49 , € UNID. VINHO DO PORTO CRUZ SIGNATURE, RUBY RESERVE GARRAFA: 75 CL 9,99€/L 25 % Sobre PVPR PVPR 11,29 € 8 45 , € UNID. APERITIVO MARTINI ROSSO/ BIANCO GARRAFA: 75 CL 11,27€/L 20 % Sobre PVPR PVPR 26,99 € 21 59 € , UNID. GIN THE FOXTALE GARRAFA: 1 L Sobre PVPR Menos 1 , 10 € PVPR 5,99 € 4 89 , € UNID. VINHO DO PORTO OFFLEY TAWNY/ WHITE/ RUBY GARRAFA: 75 CL 6,52€/L 35 % Sobre PVPR PVPR 17,99 € 11 69 € , UNID. VINHO DO PORTO CÁLEM VELHOTES TAWNY, 10 ANOS GARRAFA: 75 CL 15,59€/L Sobre PVPR Menos 2 € PVPR 18,08 € 16 08 € , UNID. LICOR MEX MORANGO/ MANGA/ MELÃO GARRAFA: 70 CL 22,97€/L 20 % Sobre PVPR PVPR 28,19 € 22 55 € , UNID. GIN BOMBAY CITRON PRESSÉ GARRAFA: 70 CL 32,21€/L Até 25 % Sobre PVPR NESTA SELEÇÃO DE PRODUTOS DA MARCA GRANT’S 25 % Sobre PVPR PVPR 21,99 € 16 49 € , UNID. WHISKY CUTTY SARK GARRAFA: 1 L 20 % Sobre PVPR PVPR 6,59 € 5 25 , € UNID. VINHO DO PORTO BARROS TAWNY/ RUBY/ WHITE GARRAFA: 75 CL 7€/L 50 % Sobre PVPR PVPR 23,98 € 11 99 € , UNID. VINHO DO PORTO GRAN CRUZ LBV GARRAFA: 75 CL 15,99€/L 20 % Sobre PVPR PVPR 14,99 € 11 99 € , UNID. VODKA MOSKOVSKAYA GARRAFA: 70 CL 17,13€/L 20 % Sobre PVPR NESTA SELEÇÃO DE TEQUILA DA MARCA SIERRA Sobre PVPR Menos 5 € PVPR 34,99 € 29 99 € , UNID. WHISKY MONKEY SHOULDER BLENDED MALT GARRAFA: 70 CL 42,84€/L loja, site e app 698260 698257 698253 700661 700655 698330 698325 698326 700656 698320 700658 698249 698251 698261 698258 698254 698252 698264 698329 700729 698324 700659 698327",
+    "HIGIENE E BELEZA 35 Até NA MARCA PANTENE % Ig- odX- Sobre PVPR 25 % Sobre PVPR NA MARCA LINIC Até 25 % Sobre PVPR NA MARCA H&S *Nielsen (Portugal Market), vendas em volume da marca Nutrisse 2022. *SÉRUM: TESTE CLÍNICO, 75 SUJEITOS. CREME: TESTE CLÍNICO, 43 SUJEITOS. TESTE INSTRUMENTAL, 58 MULHERES**. ** TESTE INSTRUMENTAL: 58 MULHERES, 5 SEMANAS + 1 SEMANA DE TRANSIÇÃO. NOVO Até 25 % Sobre PVPR NA MARCA HERBAL ESSENCES 35 % Sobre PVPR NA MARCA GLISS 40 % Sobre PVPR NA MARCA SYOSS Até 35 % Sobre PVPR NOS PRODUTOS CAMOMILA DA MARCA ULTRA SUAVE Até 40 % Sobre PVPR NA MARCA ELVIVE EXCETO PEQUENAS EMBALAGENS COLLAGEN LIFTER 20 % Sobre PVPR NA MARCA OGX EXCETO EMB.: 88ML 40 Até EU JÁ SOU NA MARCA KERZO EKQERUZIPOA % EU E J U Á J S Á O SO U U E TU?EU EQU EQ IP U A IPA JKÁERS K Z E O R OU ZO SPoVbPrRe EQUEIPTAU E ? TU? KERZO E TU? CHAMPÔ ANTIQUEDA CHAMPÔ ANTIQUEDA Especialista em produtos capilares desde 1962 Especialista em produtos capilares desde 1962 CHAMPÔ ANTIQUEDA DANI EMBAIXADOR OFICIAL CHAMPÔ A E N s T p I e Q ci U a E lis D ta A em produtos capilares desde 1962 DANI EMBAIXADOR OFICIAL DANI EMBAIXADOR OFICIAL Especialista em produtos capilares desde 1962 DANI EMBAIXADOR OFICIAL Até 30 % Sobre NOS TRATAMENTOS E MÁSCARAS DA MARCA ULTRA SUAVE PVPR 30 % Sobre PVPR NA MARCA NUTRISSE VOLUME INSTANTÂNEO QUE DURA 72 H 1 . TU MERECES. KENDALL JENNER 30 % Sobre PVPR NA MARCA GOOD Mais 15 de % Sobre PVPR NAS COLORAÇÕES DA MARCA PALETTE 25 % Sobre PVPR NUMA SELEÇÃO DE CHAMPÔS DA MARCA BATISTE UMA COR ÚNICA COMO TU. FÓRMULA EGAN 2 2 sem ingredientes de origem animal ou derivados 35 % Sobre PVPR NOS PRODUTOS DE ROSTO REVITALIFT CLÁSSICO DA MARCA L’ORÉAL 30 % Sobre PVPR NOS CREMES E SÉRUNS REVITALIFT FILLER DA MARCA L’ORÉAL PARIS PREENCHE A PELE EM 1H DURANTE 5 DIAS * 35 % Sobre PVPR NOS PRODUTOS DE ROSTO Q10 DA MARCA NIVEA 35 % Sobre PVPR NOS PRODUTOS DE ROSTO CELLULAR DA MARCA NIVEA 30 % Sobre PVPR NOS PRODUTOS DE ROSTO LUMINOUS DA MARCA NIVEA 12 20 % Sobre PVPR NAS MÁSCARAS DE TECIDO DA MARCA GARNIER 35 % Sobre PVPR NOS PRODUTOS DERMA SKIN CLEAR E CLEAR UP STRIPS DA MARCA NIVEA Até 35 % Sobre PVPR NOS LEITES DE LIMPEZA, TÓNICOS E DESMAQUILHANTES DE OLHOS DA MARCA NIVEA 40 loja, site e app 695634 695635 695633 695636 695631 695632 695642 695711 695638 695639 695641 695637 695640 695710 700366 698013 698008 698011 698012 698007 698009 698010 698014",
+    "20 % Sobre PVPR NOS PRODUTOS DE TRATAMENTOS E LIMPEZA DA MARCA MEN EXPERT Até 30 % Sobre PVPR NOS PRODUTOS DE LIMPEZA E CUIDADO DO ROSTO DA MARCA NIVEA MEN 20 % Sobre PVPR NA MARCA KING C GILLETTE EXCETO RECARGAS 35 % Sobre PVPR NAS LÂMINAS DESCARTÁVEIS DA MARCA BIC 10 % Sobre PVPR NAS RECARGAS POUPANÇA DA MARCA GILLETTE Até 30 % Sobre PVPR NAS MÁQUINAS DA MARCA GILLETTE Até 20 % Sobre PVPR NUMA SELEÇÃO DE MÁQUINAS DA MARCA VENUS 35 % Sobre PVPR NOS PRODUTOS REPARA E CUIDA DA MARCA NIVEA Até 50 % Sobre PVPR NAS LOÇÕES, BOIÕES E CREMES DE MÃOS DA MARCA DOVE Até 25 % Sobre PVPR NOS PRODUTOS DA MARCA WILKINSON INTUITION 35 % Sobre PVPR NOS CREMES DE CORPO DA MARCA NIVEA EMB.: 250ML Apenas HIDRATANTE E RESISTENTE À ÁGUA ALOÉ VERA E VITAMINA E HIDRATANTE E RESISTENTE À ÁGUA ALOÉ VERA E VITAMINA E 3 99 , € UNID. CERA QUENTE MYLABEL EMB.: 250 ML 1 15,96€/L LIMPEZA 2 ESFOLIAÇÃO 3 99 € HIDRATAÇÃO CREME DE OLHOS 4 , UNID. 4 SÉRUM 5 HIDRATAÇÃO CREME DE ROSTO GOTAS 1 2 AUTO BRONZ LI E MP A EZ D A ORAS ESFOLIAÇÃO MYLABEL EMB.: 30 ML 166,33€/L 3 4 5 HIDRATAÇÃO CREME DE OLHOS SÉRUM HIDRATAÇÃO CREME DE ROSTO #napeledequemsegue Até 50 % Sobre PVPR NOS PRODUTOS SOLARES EXCETO MARCA MYLABEL #napeledequemsegue 41 loja, site e app 695630 695709 695712 698006 697993 697995 695629 695708 695713 697994 697996 697898 693562 693566",
+    "Até 40 % Sobre PVPR NA MARCA DOVE MEN Até 50 % Sobre PVPR NA MARCA NATURAL HONEY 40 % Sobre PVPR NOS SABONETES LÍQUIDOS E RECARGAS DA MARCA DOVE Até 35 % Sobre PVPR NOS DESODORIZANTES DA MARCA DOVE 40 % Sobre PVPR NOS DESODORIZANTES BLACK&WHITE DAS MARCAS NIVEA E NIVEA MEN EXCETO MINIATURAS 40 % Sobre PVPR NOS DESODORIZANTES E GÉIS DE BANHO DERMA CONTROL DA MARCA NIVEA HIDRATANTE E RESISTENTE À ÁGUA ALOÉ VERA E VITAMINA E 1 LIMPEZA 2 ESFOLIAÇÃO MARCA DA SEMANA Até 25 % Sobre PVPR NOS PRODUTOS DA MARCA COLGATE 50 CACRORIMNPHROASS DE N3O50V€ALCOARDDAE OTSOMDEOSSES Apenas 3 HIDRATAÇÃO CREME DE OLHOS 4 SÉRUM 5 Apenas HIDRATAÇÃO HIDRATANTE E CREME DE ROSTO RESISTENTE À ÁGUA ALOÉ VERA E VITAMINA E 99 € 1 UNID. , BODY SPRAY MY LABEL CHILL VIBE/ WARM BEAT EMB.: 200 ML 9,95€/L 29 € 1 UNID. , DESODORIZANTE SPRAY MYLABEL TROPICAL EMB.: 200 ML 6,45€/L #napeledequemsegue 35 % Sobre PVPR NOS DESODORIZANTES DA MARCA GILLETTE 1 LIMPEZA 3 HIDRATAÇÃO CREME DE OLHOS 4 SÉRUM Apenas 2 1 , 49 ESFOLIAÇÃO € UNID. ESCOVAS DENTES SENSITIVE CONTINENTE MEDIU 5 M/ SOFT EMB.: 2 UNID 0,75€/UNID HIDRATAÇÃO CREME DE ROSTO Mais 25 de % Sobre PVPR NOS PRODUTOS DA MARCA ORAL B EXCETO RECARGAS EMB.: 2UNID 42 Até 35 % Sobre PVPR NOS BIPACKS DAS MARCAS SENSODYNE E AQUAFRESH EMB.: 2X75ML Até 30 % Sobre PVPR NAS PASTAS DENTÍFRICAS P/ ADULTO DA MARCA AQUAFRESH Apenas 1 59 , € UNID. ESCOVAS DE DENTES WHITENING CONTINENTE MEDIUM/ SOFT EMB.: 2 UNID #napeledequ 0 e ,8 m 0€/ s U e NI g D ue loja, site e app 698328 698322 698319 698318 698316 698317 698207 698209 698208 693569 698323 698206 693563 693554 693564",
+    "30 % Sobre PVPR NA MARCA CONTROL Até 25 % Sobre PVPR NA MARCA AUSONIA DISCREET 25 % Sobre PVPR NOS PENSOS DE INCONTINÊNCIA DA MARCA TENA PVPR 3,19 € 2 99 , € UNID. PENSO DE INCONTINÊNCIA CONTINENTE DISCRET NORMAL/ DISCRET EXTRA EMB.: 24 UNID/ 20 UNID 0,12€/UNID/ 0,15€/ UNID 6,25 € 5 99 , € UNID. PENSOS DE INCONTINÊNCIA CONTINENTE DISCREET SUPER EMB.: 28 UNID 0,21€/UNID 15 % Sobre PVPR NOS PENSOS COTTONLIKE GRANDES FORMATOS DA MARCA EVAX Até 25 % Sobre PVPR NOS PENSOS SALVA SLIP MAXI E MAXI PLUS DA MARCA EVAX 25 % Sobre PVPR NOS PRODUTOS DA MARCA CAREFREE EMB.: 20 UNID 25 % Sobre PVPR NOS TAMPÕES PROCOMFORT DA MARCAO B EMB.:32UNID Até 30 % Sobre PVPR NA MARCA LIBERO Até 45 % Sobre PVPR NA MARCA NUNEX Mais 35 de % Sobre PVPR NAS BOXES DE FRALDAS ACTIVITY EXTRA DA MARCA DODOT Até 30 % Sobre PVPR NAS BOXES DE FRALDAS BEBÉ SECO DA MARCA DODOT Mais 30 de % Sobre PVPR NAS BOXES DE FRALDAS SENSITIVE E SENSITIVE EXTRA DA MARCA DODOT Até 35 % Sobre PVPR NAS FRALDAS SENSITIVE E SENSITIVE EXTRA DA MARCA DODOT 35 % Sobre PVPR NAS FRALDAS SPLASHERS DA MARCA DODOT 50 % Sobre PVPR NAS TOALHITAS DA MARCA CHICCO 14,99 € 13 99 € , UNID. FRALDAS MOVIMENTO CONTINENTE BEBÉ PACK XXL T3/ T4/ T5/ T6 EMB.: 112 UNID/ 100 UNID/ 88 UNID/ 80 UNID 0,12€/UNID/ 0,14€/ UNID/ 0,16€/UNID/ 0,17€/UNID 43 9 39 , € UNID. FRALDA CUECA CONTINENTE DO BEBÉ T4/ T5/ T6/ T7 EMB.: 44 UNID/ 40 UNID/ 36 UNID/ 32 UNID 0,21€/UNID/ 0,23€/ UNID/ 0,26€/UNID/ 0,29€/UNID 15 % Desconto Direto NUMA SELEÇÃO DE TOALHITAS PACK POUPANÇA DA MARCA CONTINENTE DO BEBÉ 10 % Desconto Direto NOS PRODUTOS P/ O BANHO DA MARCA CONTINENTE DO BEBÉ loja, site e app 698217 698211 698212 701939 695715 698213 698214 698215 698216 698425 698424 698431 698427 698428 698430 698429 698426 700589 694003 700665 695643",
+    "Até 50 % Sobre PVPR LIMPEZA DO NOS DETERGENTES LÍQUIDOS CICLOS CURTOS DAS MARCAS SURF E SKIP 60 % Sobre PVPR PVPR 14,98 € 5 99 , € UNID. DETERGENTE CÁPSULAS DA ROUPA GAMA COLÓNIA EMB.: 30 DOSES 0,20€/DOSE LAR 50 % Sobre PVPR PVPR 5,99 € 2 99 , € UNID. TIRA NÓDOAS SPRAY SKIP EMB.: 500 ML 5,98€/L DETERGENTES ROUPA 50 Até % Sobre PVPR NOS DETERGENTES DA ROUPA EXCETO MARCAS CONTINENTE E OMO AMACIADORES ROUPA Até 65 % Sobre NOS AMACIADORES P/ ROUPA PVPR INTENSIFICADORES ROUPA Até 60 % Sobre PVPR NOS INTENSIFICADORES DE PERFUME EXCETO MARCA CONTINENTE ADITIVOS E AUXILIARES ROUPA Até 50 % Sobre PVPR NOS ADITIVOS P/ MÁQUINA DA ROUPA DAS MARCAS CALGON E XAU DETERGENTES ROUPA 5 69 , € UNID. DETERGENTE EM CÁPSULAS CONTINENTE ORQUÍDEAS EMB.: 30 DOSES 0,19€/DOSE AMACIADORES ROUPA 2 69 , € UNID. AMACIADOR ULTRA CONCENTRADO CONTINENTE MOONLIGHT BLOSSOM / BLOOMING PETALS EMB.: 50 DOSES 0,05€/DOSE 60 % Sobre PVPR PVPR 12,49 € 99 € 4 UNID. , DETERGENTE LÍQUIDO P/ MÁQUINA DA ROUPA GAMA FRESCURA DE COLÓNIA EMB.: 45 DOSES 0,11€/DOSE 50 % Sobre PVPR PVPR 3,99 € 1 99 , € UNID. AMACIADOR CONCENTRADO COMFORT ESSÊNCIA AZUL EMB.: 38 DOSES 0,05€/DOSE 50 % Sobre PVPR PVPR 7,99 € 99 € 3 UNID. , INTENSIFICADOR DE PERFUME SAN CAMPO DE FLORES/ PRIMAVERA/ TROPICAL/ BRISA AMANHECER EMB.: 40 DOSES 0,10€/DOSE 50 % Sobre PVPR PVPR 7,99 € 3 99 , € UNID. LIMPA MÁQUINAS XAU ORIGINAL/ EXPRESS EMB.: 250 ML 15,96€/L 60 % Sobre PVPR PVPR 29,99 € 99 € 11 UNID. , DETERGENTE LÍQUIDO P/ MÁQUINA ROUPA PERSIL SABÃO AZUL& BRANCO EMB.: 100 DOSES 0,12€/DOSE 50 % Sobre PVPR PVPR 8,99 € 4 49 , € UNID. AMACIADOR COMFORT LILY/ PURE EMB.: 105 DOSES 0,04€/DOSE 50 % Sobre PVPR PVPR 11,99 € 5 99 , € UNID. INTENSIFICADOR DE PERFUME PÉROLA ELIXIR COMFORT BRISA EMB.: 460 ML 13,02€/L 25 % Sobre PVPR PVPR 9,32 € 6 99 , € UNID. ANTICALCÁRIO CALGON PASTILHAS EMB.: 15 UNID 0,47€/UNID ADITIVOS E AUXILIARES ROUPA 1 49 , € UNID. TIRA NÓDOAS CONTINENTE SPRAY EMB.: 750 ML 1,99€/L 44 loja, site e app 701696 697047 697049 697050 697052 693993 700727 700726 701661 701659 701664 701658 697028 701660 701662 701667 693908 694002",
+    "Até 60 % Sobre PVPR NA MARCA BREF Até 60 % Sobre PVPR NA MARCA AIRWICK MULTIUSOS Até 50 % Sobre NOS SPRAYS MULTIUSOS EXCETO MARCA CONTINENTE PVPR LIMPA VIDROS E MÓVEIS Até 50 % Sobre PVPR NOS LIMPA VIDROS E MÓVEIS DAS MARCAS AJAX, CILLIT E PRONTO LAVA TUDO E LIXÍVIAS Até 50 % Sobre PVPR NOS LAVA TUDO DAS MARCAS AJAX , CIF E SONASOL INSETICIDAS Até 50 % Sobre PVPR NOS INSETICIDAS DAS MARCAS DUM DUM, RAID E BAYGON 50 % Sobre PVPR PVPR 5,99 € 2 99 , € UNID. CREME C/ LIXÍVIA CIF MAX POWER EMB.: 700 ML 4,27€/L 50 Mais de % Sobre PVPR PVPR 5,19 € 2 49 , € UNID. SPRAY MULTISUPERFÍCIES CILLIT BANG VIDROS EMB.: 500 ML 4,98€/L 50 % Sobre PVPR PVPR 3,59 € 1 79 , € UNID. LAVA TUDO GEL CIF ATIVO C/ LIXIÍVIA EMB.: 750 ML 2,39€/L 25 % Sobre PVPR PVPR 7,69 € 5 76 , € UNID. REPELENTE ROOL ON AUTAN FAMILY KIDS MULTIUSOS 1 59 , € UNID. SPRAY MULTIUSO LIXÍVIA CONTINENTE POWER+ EMB.: 750 ML 2,12€/L LAVA TUDO 1 19 , € UNID. LAVA TUDO CONTINENTE LAVANDA/ MARINHO/ VINAGRE E FLORES/ CAMOMILA EMB.: 2 L 0,60€/L 45 50 % Sobre PVPR PVPR 5,99 € 2 99 , € UNID. SPRAY DESINFETANTE SANYTOL MULTIUSOS EMB.: 750 ML 3,99€/L 50 % Sobre PVPR PVPR 3,99 € 1 99 , € UNID. SPRAY MULTIUSOS AJAX NEROLI & YUZU EMB.: 500 ML 3,98€/L 40 % Sobre PVPR PVPR 4,99 € 2 99 , € UNID. LAVA TUDO AJAX LIMÃO/ LAVANDA EMB.: 2 L 1,50€/L 50 % Sobre PVPR PVPR 20,99 € 10 49 € , UNID. RECARGA INSETICIDA RAID VOADORES NOITES EMB.: 3 X 1 UNID LIMPA VIDROS E MÓVEIS 2 29 , € UNID. REPARADOR DE MÓVEIS CONTINENTE CLARO/ ESCURO EMB.: 200 ML 11,45€/L loja, site e app 701951 701953 701958 701950 701959 701960 694000 701955 701956 701949 701952 701954 701957 701961 701948 700494 693999",
+    "Até 65 % Sobre PVPR NOS DETERGENTES P/ MÁQUINA DA LOIÇA DA MARCA FINISH Até 50 % Sobre PVPR NOS SPRAYS MULTIUSOS DE COZINHA EXCETO MARCA CONTINENTE MARCA DA SEMANA Mais 35 de % Sobre PVPR NOS DETERGENTES PLATINUM PLUS DA MARCA FAIRY 50 CACRORIMNPHROASS DE N3O50V€ALCOARDDAE OTSOMDEOSSES Até 25 % Sobre PVPR NOS SPRAYS DA MARCA FAIRY 20 % Sobre PVPR PVPR 6,29 € 4 99 , € UNID. DETERGENTE MANUAL LOIÇA FAIRY ORIGINAL / LIMÃO EMB.: 1.25 L 3,99€/L PAPEL 60 % Sobre PVPR NUMA SELEÇÃO DE ROLOS DE COZINHA DAS MARCAS RENOVA, FOXY E COLHOGAR Até 50 % Sobre PVPR NUMA SELEÇÃO DE PRODUTOS DA MARCA RENOVA DETERGENTE 4 99 , € UNID. DETERGENTE PASTILHAS LOIÇA CONTINENTE ALL IN ONE GEL EMB.: 30 DOSES 0,17€/DOSE 46 PAPEL 20 % Desconto Direto 4,99 € 3 99 , € UNID. PAPEL HIGIÉNICO 3 FOLHAS CONTINENTE PERFUMADO ÓLEO DE COCO EMB.: 12 ROLOS 0,33€/ROLO Até 35 % Sobre PVPR NOS DETERGENTES P/ MÁQUINA DA LOIÇA TUDO EM 1 DA MARCA FAIRY 50 % Sobre PVPR PVPR 19,99 € 99 € 9 , UNID. DETERGENTE MÁQUINA GEL FAIRY LIMÃO/ PROFISSIONAL EMB.: 900 ML 11,10€/L Até 25 % Sobre PVPR NOS PRODUTOS MAXI PODER DA MARCA FAIRY Até 25 % Sobre PVPR NOS DETERGENTES MANUAIS ULTRA PODER DA MARCA FAIRY 15 Mais de % Sobre PVPR PVPR 2,99 € 2 49 , € UNID. ROLO DE COZINHA RENOVA TEXTIL PAPIER EMB.: 2 X 2 ROLOS 0,62€/ROLO 30 Mais de % Sobre PVPR PVPR 5,79 € 3 99 , € UNID. PAPEL HIGIÉNICO RENOVA TEXTILPAPIER EMB.: 9 ROLOS 0,44€/ROLO 45 Mais de % Sobre PVPR PVPR 3,29 € 1 65 , € UNID. ROLO DE COZINHA COLHOGAR ADAPT 3=4,5 ROLOS EMB.: 2 ROLOS/ 3 ROLOS 0,83€/ROLO/ 0,80€/ ROLO 45 Mais de % Sobre PVPR PVPR 17,49 € 8 75 , € UNID. PAPEL HIGIÉNICO RENOVA GRAND ROYAL 4 FOLHAS EMB.: 18 ROLOS 0,49€/ROLO 1 45 , € UNID. PAPEL HIGIÉNICO HÚMIDO CONTINENTE BIODEGRADÁVEL EMB.: 100 UNID 0,01€/UNID loja, site e app 697015 697006 701815 701810 701817 697004 701816 701812 701814 701813 701666 697054 701811 701665 701663 693997 696988 693998",
+    "E ESTA NOVIDADE? MÁQUINA DE GELADOS COPO REMOVÍVEL PARA CONGELADOR CAPACIDADE DE 1,5 LITROS 35 € UNID. MÁQUINA DE GELADOS KUPPLER REF.: 8694084 MKT NOVIDADE 47 loja, site e app 701514",
+    "(1) ARTIGOS INDISPONÍVEIS NAS LOJAS CONTINENTE MODELO DO CARTAXO, ELVAS, ERMESINDE, GULPILHARES, LIXA, LOUSADA, MAIA, MAIA VIVACI, MALVEIRA, OVAR, REBORDOSA, SANTO TIRSO, TIRES, TROFA, VAGOS, VISEU RETAIL PARK. VERÃO 30 € UNID. 1 COOLER BOX MARSHMALLOW REF.: 8605334/5 CAP.: 20L 30 € UNID. 1 COOLER BOX MARSHMALLOW REF.: 8647758 CINZA CAP.: 20L 30 € UNID. 1 COOLER BOX MARSHMALLOW REF.: 8647753 CORAL CAP.: 20L 27 € UNID. 1 COOLER BOX MARSHMALLOW REF.: 8605336/7 CAP.: 12L 27 € UNID. MALA TÉRMICA SEMI RÍGIDA MARSHMALLOW REF.: 8647110/9 CAP.: 12L 30 € UNID. MALA TÉRMICA SEMI RÍGIDA MARSHMALLOW REF.: 8647116/7 CAP.: 29L Leve 2 Pague 1 EM TODO O BAZARÃO PROMOÇÃO VÁLIDA DE DE 29 DE JUNHO A 12 DE JULHO DE 2026. NÃO ACUMULA COM OUTRAS PROMOÇÕES EM VIGOR. OFERTA DO ARTIGO MAIS BARATO. 48 loja, site e app 697667 697664 697665 697666 697668 697669 698087 698089 698088 698086",
+    "(1) ARTIGOS INDISPONÍVEIS NAS LOJAS CONTINENTE DE BARREIRO, LOULÉ, PORTIMÃO (CABEÇO DO MOCHO), TAVIRA, TORRES NOVAS E CONTINENTE MODELO DE CARTAXO, ELVAS, ERMESINDE, MAIA, MAIA VIVACI, LEÇA DO BALIO, OLIVEIRA DE AZEMÉIS, OVAR, REBORDOSA, RIO TINTO, SÃO JOÃO DE VER E VISEU RETAIL PARK., (2) ARTIGOS INDISPONÍVEIS NAS LOJAS CONTINENTE DE BARREIRO, LOULÉ, PORTIMÃO (CABEÇO DO MOCHO), TAVIRA, TORRES NOVAS E CONTINENTE MODELO DE CARTAXO, ELVAS, ERMESINDE, MAIA, MAIA VIVACI, LEÇA DO BALIO, OLIVEIRA DE AZEMÉIS, OVAR, REBORDOSA, RIO TINTO, SÃO JOÃO DE VER E VISEU RETAIL PARK Mais 15 de % Sobre PVPR 2 NO SPRAY P/ COCKPIT DA MARCA REDEX 15 % Sobre PVPR PVPR 6,49 € 5 49 , € UNID. 2 CHAMPÔ AUTO REDEX REF.: 2102492 EMB.: 5 L 1,10€/L 25 % Sobre PVPR PVPR 7,99 € 5 99 , € UNID. 2 SPRAY LIMPA JANTES REDEX REF.: 2186981 EMB.: 1 L 15 Mais de % Sobre PVPR PVPR 7,99 € 6 49 , € UNID. 2 SPRAY BRILHO PNEUS REDEX REF.: 2362826 EMB.: 1 L 20 % Sobre PVPR PVPR 6,99 € 5 59 , € UNID. 2 LIMPA ESTOFOS C/ ESCOVA REDEX REF.: 5319557 EMB.: 400ML 15 Mais de % Sobre PVPR PVPR 2,99 € 2 49 , € UNID. 2 LIMPA VIDROS CONCENTRADO REDEX REF.: 2102495 EMB.: 500 ML EMB.: 0.35 UNID 7,11€/UNID Mais 15 de % Sobre PVPR 2 NOS LIMPA VIDROS DA MARCA REDEX AS LAVADORAS SÃO COMPATÍVEIS COM OS ACESSÓRIOS 35 Mais de % Desconto Direto 159,99 € 99 99 € , UNID. 1 LAVADORA ALTA PRESSÃO BOOST REF.: 7991243 145BAR 20 % Desconto Direto 4,99 € 3 99 , € UNID. 1 PONTEIRA P/ LAVADORA 180º BOOST REF.: 8720022 20 % Desconto Direto 9,99 € 7 99 , € UNID. 1 ESCOVA AUTO P/ LAVADORA BOOST REF.: 8720026 40 % Sobre PVPR PVPR 299,99 € 179 99 € , UNID. 1 LAVADORA ALTA PRESSÃO K4 KARCHER REF.: 8015146 CLASSIC 20 % Desconto Direto 9,99 € 7 99 , € UNID. 1 DEPÓSITO CHAMPÔ P/ LAVADORA COMPLETO BOOST REF.: 8720027 20 % Desconto Direto 19,99 € 15 99 € , UNID. 1 ESCOVA HORIZONTAL BOOST REF.: 8720025 20 % Desconto Direto 19,99 € 15 99 € , UNID. 1 LAVA PÁTIOS P/ LAVADORA BOOST REF.: 8720023 20 % Desconto Direto 9,99 € 7 99 , € UNID. 1 ADAPTADOR ACESSÓRIOS DE LAVADORA BOOST REF.: 8720021 20 % Desconto Direto 24,99 € 19 99 € , UNID. 1 ESCOVA LIMPEZA BOOST REF.: 8720024 49 loja, site e app 698417 698421 698418 698419 698422 698420 698416 698561 698556 698560 698558 698553 698559 698555 698557 698554",
+    "CÃO 10 % Desconto Direto 2 NA ALIMENTAÇÃO SECA P/ CÃO DA MARCA CONTINENTE PET PREMIUM EMB.: 4KG 10 % Desconto Direto 3,05 € 2 74 , € UNID. 2 SNACK P/ CÃO CONTINENTE REF.: 6118067 MIX BISCOITOS EMB.: 1 KG Melhoria de qualidade: aumento da carne fresca 30 % Sobre PVPR PVPR 24,99 € 17 49 € , UNID. 2 ALIMENTO SECO P/ CÃO FRISKIES REF.: 7417748 / 7417749 / 7417760 JÚNIOR / ACTIVE / FRANGO EMB.: 9 KG 1,94€/KG Até 35 % Sobre PVPR 2 NA ALIMENTAÇÃO SECA P/ CÃO DA MARCA PURINA ONE EMB.: 2.5KG E 14KG Até 35 % Sobre PVPR 2 NUMA SELEÇÃO DE ALIMENTAÇÃO SECA E HÚMIDA DA MARCA PURINA ONE MINI Até 35 % Sobre PVPR 2 NUMA SELEÇÃO DE SNACKS P/ CÃO DA MARCA DENTALIFE (1) ARTIGOS INDISPONÍVEIS NAS LOJAS CONTINENTE MODELO DE ALTO DO LUMIAR, BARCELOS, ELVAS, ERMESINDE, FAMALICÃO, FAMALICÃO RETAIL PARK, LIXA, MAIA, MIRANDELA, PORTELA RALIS, REBORDOSA, TROFA, VILA REAL DE SANTO ANTÓNIO, VISEU RETAIL PARK E VIZELA , (2) ARTIGOS INDISPONÍVEIS NAS LOJAS CONTINENTE MODELO DE ALTO DO LUMIAR, BARCELOS, ELVAS, ERMESINDE, FAMALICÃO, FAMALICÃO RETAIL PARK, LIXA, MAIA, MIRANDELA, PORTELA RALIS, REBORDOSA, TROFA, VILA REAL DE SANTO ANTÓNIO, VISEU RETAIL PARK E VIZELA 20 % Sobre PVPR 2 NA MARCA JOY&TOY 25 % Sobre PVPR 2 NA ALIMENTAÇÃO HÚMIDA E SECA P/ CÃO DA MARCA FRISKIES EMB.: 4KG 12 99 € , UNID. 2 ALIMENTO SECO P/ CÃO CONTINENTE PET REF.: 8290237 COMPLETO EMB.: 15 KG 0,87€/KG 30 % Sobre PVPR PVPR 12,99 € 09 € 9 UNID. , 2 ALIMENTO SECO P/ CÃO/ FRISKIES REF.: 5973865 / 8753932 MINI MENU VACA EMB.: 3 KG 3,03€/KG 7 99 , € UNID. 2 ALIMENTO SECO P/ CÃO CONTINENTE PET REF.: 8290268 VITALIDADE RAÇAS PEQUENAS EMB.: 4 KG 2€/KG 20 % Desconto Direto 19,99 € 15 99 € , UNID. 2 CAMA ELEVADA P/ ANIMAIS LUPI LINX TAM.:106X62X20CM Peso máx suportado é de 40 kg 50 25 % Desconto Direto 10,99 € 8 24 , € UNID. 2 COLCHÃO REFRESCANTE LUPI LINX MELANCIA TAM.:80X80CM 25 % Sobre PVPR 2 NUMA SELEÇÃO DE ALIMENTAÇÃO SECA E SNACKS DA MARCA PEDIGREE Até 35 % Sobre PVPR 1 NUMA SELEÇÃO DE ALIMENTAÇÃO HÚMIDA E SNACKS DA MARCA PEDIGREE E PEDIGREE DENTASTIX 4 79 , € UNID. 2 ALIMENTO HÚMIDO P/ CÃO CONTINENTE PET REF.: 8529740 ADULTO SAQUETAS CARNE EMB.: 12 X 100 G 3,99€/KG 1 49 , € UNID. 2 STICK DENTÁRIO P/ CÃO CONTINENTE REF.: 8707123 RAÇAS PEQUENAS EMB.: 320 G 4,66€/KG SAQUETA FICA A 0,40 € ACESSÓRIOS P/ CÃO E GATO 25 % Desconto Direto 10,99 € 8 24 , € UNID. 2 COLCHÃO REFRESCANTE LUPI LINX TAM.:70X90CM 20 % Desconto Direto 17,99 € 14 39 € , UNID. 2 PISCINA P/ CÃO LUPI LINX TAM.: 120X30CM loja, site e app 694939 694941 694936 694926 694927 694928 694952 694929 694743 694930 694937 694938 694745 694747 694748 700376 700377 700379 700378",
+    "(1) ARTIGOS INDISPONÍVEIS NAS LOJAS CONTINENTE MODELO DE ALTO DO LUMIAR, BARCELOS, ELVAS, ERMESINDE, FAMALICÃO, FAMALICÃO RETAIL PARK, LIXA, MAIA, MIRANDELA, PORTELA RALIS, REBORDOSA, TROFA, VILA REAL DE SANTO ANTÓNIO, VISEU RETAIL PARK E VIZELA 25 % Sobre PVPR PVPR 26,65 € 98 € 19 UNID. , 1 ALIMENTO HÚMIDO P/ GATO FELIX REF.: 7639538 MIX EMB.: 44 X 85 G 5,34€/KG Formato poupança 7 50 , € UNID. 1 ALIMENTO SECO P/ GATO CONTINENTE PET BASIC REF.: 8480158 CARNE EMB.: 6 KG 1,25€/KG Melhoria de qualidade: comprovado com testes de palatabilidade SAQUETA FICA A 0,45 € Até 35 % Sobre PVPR 1 NUMA SELEÇÃO DE SECOS E HÚMIDOS P/ GATO DA MARCA PURINA ONE Leve 4 Pague 3 75 € 0 UNID. , 1 SNACK LÍQUIDO P/ GATO PURINA ONE REF.: 8652047 / 8652256 HYDRALIFE FRANGO/ SALMÃO EMB.: 50 G 15€/KG 25 % Sobre PVPR 1 NAS MARCAS CIAO E CHURU 10 % Desconto Direto 13,99 € 12 59 € , UNID. 1 ALIMENTO SECO P/ GATO CONTINENTE PET REF.: 8607726 ADULTO ESTÉRIL SALMÃO EMB.: 6 KG 2,10€/KG Melhoria de qualidade: comprovado com testes de palatabilidade 25 % Sobre PVPR NUMA SELEÇÃO DE PACKS DA MARCA GOURMET GATO 25 % Sobre PVPR 1 NOS PACKS HÚMIDOS DA MARCA GOURMET GOLD EMB.: 12/24 UNID 40 % Sobre PVPR PVPR 45,99 € 59 € 27 UNID. , 1 ALIMENTO SECO P/ GATO SMAAK REF.: 8375244 ADULTO ESTÉRIL FRANGO EMB.: 7 KG 3,94€/KG Até 25 % Sobre PVPR 1 NOS SNACKS E SECOS P/ GATO DA MARCA ULTIMA EMB.: 1.5KG Até 35 % Sobre PVPR 1 NOS ALIMENTOS SECOS P/ GATO DA MARCA FRISKIES EMB.: 2KG/4KG 25 % Sobre PVPR PVPR 2,99 € 24 € 2 UNID. , 1 ALIMENTO HÚMIDO P/ GATO WHISKAS REF.: 7684556 / 7684560 / 8433833 VÁRIOS SABORES EMB.: 4 X 85 G 6,59€/KG 14 99 € , UNID. 1 ARRANHADOR LUPI LINX SISAL TAM.: 42CM ACESSÓRIOS P/ GATO 20 % Sobre PVPR PVPR 16,49 € 13 19 € , UNID. 1 CASA TOILETE P/ GATO NOVA 51 15 % Desconto Direto 5,39 € 58 € 4 UNID. , 1 ALIMENTO SECO P/ GATO CONTINENTE PET PREMIUM REF.: 8607737 SÉNIOR FRANGO EMB.: 1.5 KG 3,05€/KG Leve 2 por 12 € 6 59 , € UNID. 1 ALIMENTO HÚMIDO P/ GATO CONTINENTE PET REF.: 8607687 PEDAÇOS MOLHO MIX EMB.: 24 X 100 G 2,75€/KG SAQUETA FICA A 0,25 € 6 99 , € UNID. 1 ALIMENTO HÚMIDO P/ GATO CONTINENTE PET PREMIUM REF.: 8644326 ADULTO MOUSSE MIX EMB.: 12 X 85 G 6,85€/KG Melhoria de qualidade: comprovado com testes de palatabilidade LATA FICA A 0,58 € 10 % Desconto Direto 1,10 € 99 € 0 UNID. , 1 SNACK P/ GATO/ CONTINENTE REF.: 7631391 / 7631732 / 7637786 / 7637787 / 8546032 / 8546042 VÁRIOS SABORES EMB.: 70 G 14,14€/KG 13 99 € , UNID. 1 ABSORVENTE P/ GATO AGLOMERANTE CONTINENTE PET PREMIUM PERFUME TALCO/ CARVÃO EMB.: 15 L 0,93€/L Duração até 90 dias 6 Leve 2 por € Duração até 30 dias 3 39 , € UNID. 1 ABSORVENTE P/ GATO CONTINENTE PET SÍLICA GEL EMB.: 3.8 L 0,89€/L loja, site e app 694934 694744 694940 694932 694945 698022 694933 694931 694950 694942 694935 694943 694765 694947 694944 694762 694764 695512 694946 695513",
+    "(1) ARTIGOS INDISPONÍVEIS NAS LOJAS CONTINENTE MODELO DE ALTO DO LUMIAR, BARCELOS, ELVAS, ERMESINDE, FAMALICÃO, FAMALICÃO RETAIL PARK, LIXA, MAIA, MIRANDELA, PORTELA RALIS, REBORDOSA, TROFA, VILA REAL DE SANTO ANTÓNIO, VISEU RETAIL PARK E VIZELA Até 35 % Sobre PVPR 1 NOS SNACKS P/ CÃO DA MARCA VITAKRAFT GANHE SELOS EXTRA 1 SELO POR CADA 5€ EM COMPRAS E AINDA NAS MARCAS: loja, site e app Concurso Publicitário nº 1 / 2026 , autorizado pela Câmara Municipal de Matosinhos. Prémios não convertíveis em dinheiro. As fotograﬁas deste folheto são ilustrativas. A totalidade dos produtos apresentada poderá não estar disponível em todas as lojas. faleconnosco.continente.pt 210 16 16 16 Chamada para a rede ﬁxa nacional Estes preços são válidos nos Hipermercados Continente, Continente Modelo, (exceto Continente Bom Dia, Madeira e Açores) de 30 de junho a 6 de julho de 2026, salvo rutura de stocks ou erro tipográﬁco. Adereços não incluídos. Modelo Continente Hipermercados, S.A (anunciante); Sede: Rua João Mendonça, n.º 505 - Senhora da Hora, 4464-503 Matosinhos; Matriculada na C.R.C. do Porto sob o n.º 502 011 475/NIPC; Capital Social 403.827.000,00 Euros. Os descontos em Cartão Continente têm a validade a partir do dia seguinte à sua emissão. O desconto só pode ser utilizado em produtos e não é convertível em dinheiro. Não acumula com outras campanhas em vigor. “PVPR/ Preço recomendado” o preço de venda sugerido ou recomendado para um determinado produto, deﬁnido e indicado pelo fabricante, produtor ou fornecedor. Os preços anunciados e as ações promocionais podem não coincidir com os disponíveis no Continente Online. CUIDE DO MEIO AMBIENTE. Impressão: LIDERGRAF | Sustainable Printing, empresa certiﬁcada no âmbito de Sistema de Gestão Ambiental ISO 14001:2015 (PT-2006/AMB.0261), e com certiﬁcação de papel proveniente de fontes controladas. Recolha e recicle o papel usado. 694953"
+  ],
+  "device": {
+    "isMobile": false,
+    "isTablet": false,
+    "isDesktop": true
+  },
+  "aws": {
+    "url": "https://b2-cdn.ipaper.io/iPaper/Papers/273898a6-7c8b-4af8-b3e8-77225b2b0c3d/",
+    "fileOptimizedUrl": "https://files.b2-cdn.ipaper.io/iPaper/Files/Optimize/",
+    "fileUrl": "https://files.b2-cdn.ipaper.io/iPaper/Files/",
+    "policy": "token=Dl3F2Ie3pPoRi09QCbSLWE1mSOjPrMgLeTxRYt1WprY&token_path=%2fiPaper%2fPapers%2f273898a6-7c8b-4af8-b3e8-77225b2b0c3d%2fPages%2f&expires=1782922435"
+  },
+  "cookieConsent": {
+    "isEnabled": false,
+    "policyTemplate": "None",
+    "externalPrivacyPolicyUrl": null,
+    "showCookieIcon": true,
+    "cookieIconColor": "16A085",
+    "linkTextColor": "16A085",
+    "backgroundImage": "",
+    "backgroundColor": "1A252B",
+    "buttonBackgroundColor": "16A085",
+    "buttonTextColor": "FFFFFF",
+    "secondaryButtonBackgroundColor": "D8D8D8",
+    "secondaryButtonTextColor": "000000"
+  },
+  "language": {
+    "downloadPdfviewHeader": "Download PDF file",
+    "emailSuccess": "Email sent succesfully",
+    "shopPriceCurrency": "Eur",
+    "inputTooShort": "Must be at least [minLength] characters",
+    "aria": {
+      "ariaDecreaseQuantity": "Decrease quantity",
+      "ariaIncreaseQuantity": "Increase quantity",
+      "ariaCurrentQuantity": "Current quantity",
+      "ariaRemoveItem": "Remove item from {0}",
+      "ariaDecreaseQuantityMinLimit": "Item quantity cannot decrease further, please remove item instead.",
+      "ariaPageNumber": "Page number {0}",
+      "ariaGoToPage": "Go to page",
+      "ariaPageFirst": "First page",
+      "ariaPagePrevious": "Previous page",
+      "ariaPageNext": "Next page",
+      "ariaPageLast": "Last page",
+      "ariaPopupMediaGalleryDot": "Media {0} of {1}",
+      "ariaProductViewModal": "Product View Modal",
+      "enrichment": {
+        "type_downloadfile": "Download PDF file",
+        "type_formitem": "Open form. {0}",
+        "type_internal": "Go to page {0}",
+        "type_menu": "Open Menu. {0}",
+        "type_opendisplay": "Open display. {0}",
+        "type_paper": "Go to another Flipbook",
+        "type_popupmediagallery": "Open Media Gallery",
+        "type_popupcontent": "Open popup content. {0}",
+        "type_popupframe": "Open an embedded frame",
+        "type_shopitem": "Add product {0} to {1}",
+        "type_shopitemmenu": "Open menu of products",
+        "type_detailedshopitem": "Open product details {0}",
+        "type_shopmultivariant": "Open product variants",
+        "type_mail": "E-mail to {0}",
+        "type_product": "Open product details: {0}",
+        "type_productlink": "Open product link: {0}",
+        "type_productframe": "Open product in frame: {0}",
+        "type_productaddtocart": "Add product {0} to {1}"
+      }
+    },
+    "generic": {
+      "close": "Close",
+      "download": "Download",
+      "email": "Email",
+      "error": "An error occurred",
+      "copy": "Copy",
+      "cancel": "Cancel",
+      "viewFlipbook": "View flipbook",
+      "page": "Page",
+      "previous": "Previous",
+      "next": "Next",
+      "scanQrCode": "Scan QR code with your mobile device to proceed",
+      "share": "Share",
+      "flipbookLinkCopied": "Link copied to clipboard",
+      "openNewTab": "Open new tab",
+      "openFullscreen": "Open in full screen",
+      "continue": "Continue",
+      "send": "Send"
+    },
+    "archive": {
+      "title": "Archive"
+    },
+    "attachments": {
+      "title": "Files",
+      "download": "Download"
+    },
+    "builder": {
+      "title": "Build your own flipbook",
+      "addPage": "Add page",
+      "movePage": "Move page",
+      "selectPages": "Select pages",
+      "preview": "Preview",
+      "previewFlipbook": "Preview flipbook",
+      "buildFlipbook": "Create flipbook",
+      "tapPagesToRearrange": "Tap pages to rearrange",
+      "shareModalTitle": "Flipbook created"
+    },
+    "cookieConsent": {
+      "accept": "Accept",
+      "acceptAll": "Accept all",
+      "acceptSelected": "Accept selected",
+      "declineAll": "Decline all",
+      "cookiePolicy": "Cookie policy",
+      "description": "We use cookies to enhance the experience. By clicking accept you get only the strictly necessary cookies for the website to work.",
+      "acceptAllDescription": "By clicking “Accept All”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",
+      "settingsDescription": "Via settings you can change which cookies are set, or update your preferences.",
+      "functionalCookiesDefinition": "These cookies enable the website to provide enhanced functions and personal options. E.g. font size choices etc.",
+      "functionalCookiesName": "Functionality",
+      "advertisingCookiesDefinition": "These cookies are used to deliver adverts more relevant to you and your interests. They do not store personal information, but are based on your browser history.",
+      "advertisingCookiesName": "Advertising",
+      "necessaryCookiesDefinition": "These cookies are essential to enable basic functionality like navigation, granting access to secured content and keeping your shopping cart content during your stay on the site.",
+      "necessaryCookiesName": "Strictly necessary",
+      "performanceCookiesDefinition": "These cookies allow us to count visits and traffic sources as well as how the site is used. This is used to improve the performance. All information is aggregated and therefore anonymous.",
+      "performanceCookiesName": "Performance",
+      "setPreferences": "Set preferences",
+      "settings": "Settings",
+      "title": "We use cookies"
+    },
+    "tableofcontents": {
+      "title": "Table of contents"
+    },
+    "search": {
+      "title": "Search",
+      "placeholder": "Type in search query...",
+      "noResults": "No results found",
+      "singleResult": "Results",
+      "pluralResults": "Results",
+      "catalogResults": "This Flipbook",
+      "archiveResults": "Whole archive",
+      "pageLabel": "Page",
+      "noResultsFoundInFlipbook": "No results found in flipbook",
+      "countedResultsInArchive": "{0} in archive"
+    },
+    "share": {
+      "title": "Share Flipbook"
+    },
+    "shop": {
+      "title": "Cart",
+      "basketIsEmpty": "Your cart is empty",
+      "productName": "Item name",
+      "productDescription": "Description",
+      "productPrice": "Price",
+      "unitPrice": "Price per unit",
+      "total": "Total",
+      "amount": "Amount",
+      "itemWithNumber": "{0} item",
+      "itemsWithNumber": "{0} items",
+      "addToBasket": "Add to cart",
+      "shopNow": "Shop now",
+      "checkout": "Shop",
+      "print": "Print",
+      "addCustomItem": "Add Custom Item",
+      "readMore": "Read more",
+      "variantSelectPlaceholder": "Select an option",
+      "addedToCart": "Added to cart",
+      "continueShopping": "Continue shopping",
+      "subtotal": "Subtotal",
+      "viewInCart": "View in cart",
+      "email": {
+        "checkout": "Email",
+        "recipientName": "Recipient name",
+        "recipientEmail": "Recipient email",
+        "senderName": "Sender name",
+        "senderEmail": "Sender email"
+      },
+      "whatsapp": {
+        "checkout": "WhatsApp checkout"
+      },
+      "viber": {
+        "checkout": "Viber checkout",
+        "useDesktopApp": "Use Viber desktop app"
+      }
+    },
+    "validation": {
+      "required": "This field is required.",
+      "remote": "Please fix this field.",
+      "email": "Please enter a valid email address.",
+      "url": "Please enter a valid URL.",
+      "date": "Please enter a valid date.",
+      "dateISO": "Please enter a valid date (YYYY-MM-DD).",
+      "number": "Please enter a valid number.",
+      "digits": "Please enter only digits.",
+      "equalTo": "Please enter the same value again.",
+      "maxlength": "Please enter no more than {0} characters.",
+      "minlength": "Please enter at least {0} characters.",
+      "rangelength": "Please enter a value between {0} and {1} characters long.",
+      "range": "Please enter a value between {0} and {1}.",
+      "max": "Please enter a value less than or equal to {0}.",
+      "min": "Please enter a value greater than or equal to {0}.",
+      "step": "Please enter a multiple of {0}."
+    }
+  },
+  "system": {
+    "loggingLabel": "prod",
+    "assemblyVersion": "508.91.0.0"
+  },
+  "modules": {
+    "hasArchive": false,
+    "hasBac": false,
+    "hasDownloadPdf": true,
+    "hasFilePublisher": false,
+    "hasNewsTicker": true,
+    "hasSearch": true,
+    "hasShop": true,
+    "hasTableOfContents": false
+  },
+  "layout": {
+    "hasAppFooter": true
+  },
+  "gatedContent": null
+}
