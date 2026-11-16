@@ -1,6 +1,6 @@
 # PDF Data Scrapers 
 # Introduction - What are these projects?
-This repository contains 3 different data scrapers. They all follow the same objective, extract all the data (name, price) of various commercial catalogs from 3 portuguese stores (Aldi, Continente and Intermarché). 
+This repository contains 2 different data scrapers. They all follow the same objective, extract all the data (name, price) of various commercial catalogs from 2 portuguese stores (Aldi and Continente). 
 
 # Why extract the data out of commercial catalogs?
 It may seem odd going for this approach in a way of learning but, if you think about it, it is not as easy as it may seem. 
